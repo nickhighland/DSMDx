@@ -1,0 +1,17 @@
+{
+  "name": "dsmdx",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:data": "node ./scripts/build-dataset.mjs",
+    "build:pages": "node ./scripts/build-page-index.mjs",
+    "build:manual-override-audit": "node ./scripts/build-manual-override-audit.mjs",
+    "build:audit": "node ./scripts/build-audit-report.mjs && node ./scripts/build-manual-override-audit.mjs",
+    "validate:data": "node ./scripts/validate-dataset.mjs",
+    "test": "node --test",
+    "check": "npm run build:data && npm run build:audit && npm run validate:data && npm run test"
+  },
+  "devDependencies": {
+    "jsdom": "^29.1.1"
+  }
+}

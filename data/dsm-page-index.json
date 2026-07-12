@@ -1,0 +1,6255 @@
+{
+  "generatedAt": "2026-07-02T15:23:42.077574Z",
+  "pdfPath": "/Users/nickhighland/Downloads/DSM 5 TR-APA (2022).pdf",
+  "entryCount": 295,
+  "entries": {
+    "Neurodevelopmental Disorders::Intellectual Developmental Disorder (Intellectual Disability)": {
+      "titlePages": [
+        144
+      ],
+      "sectionPages": {
+        "criteria": [
+          146,
+          149
+        ],
+        "differentialDiagnosis": [
+          145,
+          148,
+          150
+        ],
+        "comorbidity": [
+          146,
+          148
+        ],
+        "diagnosticFeatures": [
+          144,
+          147,
+          149
+        ],
+        "associatedFeatures": [
+          144,
+          147,
+          150
+        ],
+        "developmentAndCourse": [
+          145,
+          147,
+          150
+        ],
+        "riskAndPrognosticFactors": [
+          145,
+          150
+        ]
+      }
+    },
+    "Neurodevelopmental Disorders::Global Developmental Delay": {
+      "titlePages": [
+        142
+      ],
+      "sectionPages": {
+        "criteria": [
+          143,
+          146
+        ],
+        "differentialDiagnosis": [
+          145,
+          148
+        ],
+        "comorbidity": [
+          143,
+          146,
+          148
+        ]
+      }
+    },
+    "Neurodevelopmental Disorders::Unspecified Intellectual Developmental Disorder (Intellectual Disability)": {
+      "titlePages": [
+        142
+      ],
+      "sectionPages": {
+        "criteria": [
+          142
+        ]
+      }
+    },
+    "Neurodevelopmental Disorders::Language Disorder": {
+      "titlePages": [
+        143
+      ],
+      "sectionPages": {
+        "criteria": [
+          143,
+          146,
+          149
+        ],
+        "differentialDiagnosis": [
+          145,
+          148
+        ],
+        "comorbidity": [
+          143,
+          146,
+          148
+        ],
+        "diagnosticFeatures": [
+          144,
+          147,
+          149
+        ],
+        "associatedFeatures": [
+          144,
+          147
+        ],
+        "developmentAndCourse": [
+          145,
+          147
+        ],
+        "riskAndPrognosticFactors": [
+          145
+        ]
+      }
+    },
+    "Neurodevelopmental Disorders::Speech Sound Disorder": {
+      "titlePages": [
+        146
+      ],
+      "sectionPages": {
+        "criteria": [
+          146,
+          149,
+          151
+        ],
+        "differentialDiagnosis": [
+          148,
+          150
+        ],
+        "comorbidity": [
+          146,
+          148,
+          151
+        ],
+        "diagnosticFeatures": [
+          147,
+          149,
+          152
+        ],
+        "associatedFeatures": [
+          147,
+          150,
+          152
+        ],
+        "developmentAndCourse": [
+          147,
+          150
+        ]
+      }
+    },
+    "Neurodevelopmental Disorders::Childhood-Onset Fluency Disorder (Stuttering)": {
+      "titlePages": [
+        149
+      ],
+      "sectionPages": {
+        "criteria": [
+          149,
+          151,
+          153,
+          154
+        ],
+        "differentialDiagnosis": [
+          150,
+          153
+        ],
+        "comorbidity": [
+          151
+        ],
+        "diagnosticFeatures": [
+          149,
+          152
+        ],
+        "associatedFeatures": [
+          150,
+          152
+        ],
+        "developmentAndCourse": [
+          150,
+          153
+        ],
+        "riskAndPrognosticFactors": [
+          150,
+          153
+        ]
+      }
+    },
+    "Neurodevelopmental Disorders::Social (Pragmatic) Communication Disorder": {
+      "titlePages": [
+        151
+      ],
+      "sectionPages": {
+        "criteria": [
+          151,
+          153,
+          154
+        ],
+        "differentialDiagnosis": [
+          153
+        ],
+        "comorbidity": [
+          151
+        ],
+        "diagnosticFeatures": [
+          152
+        ],
+        "developmentAndCourse": [
+          153
+        ],
+        "riskAndPrognosticFactors": [
+          153
+        ]
+      }
+    },
+    "Neurodevelopmental Disorders::Unspecified Communication Disorder": {
+      "titlePages": [
+        154
+      ],
+      "sectionPages": {
+        "criteria": [
+          154
+        ],
+        "description": [
+          158
+        ]
+      }
+    },
+    "Neurodevelopmental Disorders::Autism Spectrum Disorder": {
+      "titlePages": [
+        154
+      ],
+      "sectionPages": {
+        "criteria": [
+          154
+        ],
+        "specifiers": [
+          157
+        ],
+        "diagnosticFeatures": [
+          158,
+          159
+        ]
+      }
+    },
+    "Neurodevelopmental Disorders::Attention-Deficit/Hyperactivity Disorder": {
+      "titlePages": [
+        168
+      ],
+      "sectionPages": {
+        "criteria": [
+          168,
+          173
+        ],
+        "differentialDiagnosis": [
+          174
+        ],
+        "comorbidity": [
+          173
+        ],
+        "diagnosticFeatures": [
+          170
+        ],
+        "associatedFeatures": [
+          171
+        ],
+        "prevalence": [
+          171,
+          172,
+          173
+        ],
+        "developmentAndCourse": [
+          172
+        ],
+        "riskAndPrognosticFactors": [
+          172
+        ],
+        "associationWithSuicidalThoughtsOrBehavior": [
+          173
+        ]
+      }
+    },
+    "Neurodevelopmental Disorders::Other Specified Attention-Deficit/Hyperactivity Disorder": {
+      "titlePages": [
+        177
+      ],
+      "sectionPages": {
+        "criteria": [
+          178,
+          179
+        ],
+        "description": [
+          181
+        ]
+      }
+    },
+    "Neurodevelopmental Disorders::Unspecified Attention-Deficit/Hyperactivity Disorder": {
+      "titlePages": [
+        177
+      ],
+      "sectionPages": {
+        "criteria": [
+          178,
+          179
+        ],
+        "description": [
+          181
+        ]
+      }
+    },
+    "Neurodevelopmental Disorders::Specific Learning Disorder": {
+      "titlePages": [
+        178
+      ],
+      "sectionPages": {
+        "criteria": [
+          178,
+          179
+        ],
+        "specifiers": [
+          179
+        ],
+        "comorbidity": [
+          184
+        ],
+        "diagnosticFeatures": [
+          180
+        ],
+        "prevalence": [
+          184
+        ],
+        "developmentAndCourse": [
+          184
+        ]
+      }
+    },
+    "Neurodevelopmental Disorders::Developmental Coordination Disorder": {
+      "titlePages": [
+        189
+      ],
+      "sectionPages": {
+        "criteria": [
+          189,
+          193
+        ],
+        "differentialDiagnosis": [
+          189,
+          192
+        ],
+        "comorbidity": [
+          189,
+          191,
+          193
+        ],
+        "diagnosticFeatures": [
+          190,
+          194
+        ],
+        "prevalence": [
+          191,
+          192,
+          195
+        ],
+        "developmentAndCourse": [
+          191,
+          195
+        ],
+        "riskAndPrognosticFactors": [
+          191
+        ]
+      }
+    },
+    "Neurodevelopmental Disorders::Stereotypic Movement Disorder": {
+      "titlePages": [
+        193
+      ],
+      "sectionPages": {
+        "criteria": [
+          193,
+          198
+        ],
+        "specifiers": [
+          194,
+          195,
+          199
+        ],
+        "differentialDiagnosis": [
+          196
+        ],
+        "comorbidity": [
+          193,
+          198
+        ],
+        "diagnosticFeatures": [
+          194,
+          199
+        ],
+        "prevalence": [
+          195
+        ],
+        "developmentAndCourse": [
+          195
+        ]
+      }
+    },
+    "Neurodevelopmental Disorders::Tourette's Disorder": {
+      "titlePages": [
+        198
+      ],
+      "sectionPages": {
+        "criteria": [
+          198,
+          201
+        ],
+        "differentialDiagnosis": [
+          203
+        ],
+        "comorbidity": [
+          198,
+          204
+        ],
+        "diagnosticFeatures": [
+          199
+        ],
+        "prevalence": [
+          201
+        ],
+        "developmentAndCourse": [
+          201
+        ],
+        "riskAndPrognosticFactors": [
+          202
+        ],
+        "associationWithSuicidalThoughtsOrBehavior": [
+          202
+        ]
+      }
+    },
+    "Neurodevelopmental Disorders::Persistent (Chronic) Motor or Vocal Tic Disorder": {
+      "titlePages": [
+        198
+      ],
+      "sectionPages": {
+        "criteria": [
+          198,
+          201
+        ],
+        "specifiers": [
+          199
+        ],
+        "differentialDiagnosis": [
+          203
+        ],
+        "comorbidity": [
+          198,
+          204
+        ]
+      }
+    },
+    "Neurodevelopmental Disorders::Provisional Tic Disorder": {
+      "titlePages": [
+        199
+      ],
+      "sectionPages": {
+        "criteria": [
+          201
+        ],
+        "differentialDiagnosis": [
+          203
+        ],
+        "comorbidity": [
+          204
+        ]
+      }
+    },
+    "Neurodevelopmental Disorders::Other Specified Tic Disorder": {
+      "titlePages": [
+        204
+      ],
+      "sectionPages": {
+        "comorbidity": [
+          204
+        ]
+      }
+    },
+    "Neurodevelopmental Disorders::Unspecified Tic Disorder": {
+      "titlePages": [
+        205
+      ],
+      "sectionPages": {}
+    },
+    "Neurodevelopmental Disorders::Other Specified Neurodevelopmental Disorder": {
+      "titlePages": [
+        205
+      ],
+      "sectionPages": {}
+    },
+    "Neurodevelopmental Disorders::Unspecified Neurodevelopmental Disorder": {
+      "titlePages": [
+        206
+      ],
+      "sectionPages": {}
+    },
+    "Schizophrenia Spectrum and Other Psychotic Disorders::Schizotypal (Personality) Disorder": {
+      "titlePages": [
+        212
+      ],
+      "sectionPages": {
+        "criteria": [
+          212,
+          215,
+          217,
+          218
+        ],
+        "differentialDiagnosis": [
+          216
+        ]
+      }
+    },
+    "Schizophrenia Spectrum and Other Psychotic Disorders::Delusional Disorder": {
+      "titlePages": [
+        212
+      ],
+      "sectionPages": {
+        "criteria": [
+          212,
+          215,
+          217,
+          218
+        ],
+        "specifiers": [
+          213
+        ],
+        "differentialDiagnosis": [
+          216
+        ],
+        "diagnosticFeatures": [
+          214,
+          218
+        ],
+        "associatedFeatures": [
+          215,
+          218
+        ],
+        "prevalence": [
+          215,
+          218
+        ],
+        "developmentAndCourse": [
+          215
+        ],
+        "riskAndPrognosticFactors": [
+          215
+        ]
+      }
+    },
+    "Schizophrenia Spectrum and Other Psychotic Disorders::Brief Psychotic Disorder": {
+      "titlePages": [
+        217
+      ],
+      "sectionPages": {
+        "criteria": [
+          217,
+          218,
+          220,
+          222,
+          223
+        ],
+        "differentialDiagnosis": [
+          219,
+          220,
+          221,
+          223
+        ],
+        "comorbidity": [
+          221
+        ],
+        "diagnosticFeatures": [
+          218,
+          221
+        ],
+        "associatedFeatures": [
+          218,
+          221,
+          222
+        ],
+        "prevalence": [
+          218,
+          222
+        ],
+        "developmentAndCourse": [
+          219,
+          221,
+          222
+        ]
+      }
+    },
+    "Schizophrenia Spectrum and Other Psychotic Disorders::Schizophreniform Disorder": {
+      "titlePages": [
+        220
+      ],
+      "sectionPages": {
+        "criteria": [
+          220,
+          222,
+          223,
+          226
+        ],
+        "specifiers": [
+          224
+        ],
+        "differentialDiagnosis": [
+          220,
+          221,
+          223
+        ],
+        "comorbidity": [
+          221
+        ],
+        "diagnosticFeatures": [
+          221,
+          225
+        ],
+        "prevalence": [
+          222
+        ],
+        "developmentAndCourse": [
+          221,
+          222
+        ],
+        "riskAndPrognosticFactors": [
+          222
+        ]
+      }
+    },
+    "Schizophrenia Spectrum and Other Psychotic Disorders::Schizophrenia": {
+      "titlePages": [
+        223
+      ],
+      "sectionPages": {
+        "criteria": [
+          223,
+          226
+        ],
+        "specifiers": [
+          224
+        ],
+        "differentialDiagnosis": [
+          223
+        ],
+        "diagnosticFeatures": [
+          225
+        ],
+        "associatedFeatures": [
+          225,
+          226
+        ],
+        "prevalence": [
+          227
+        ],
+        "developmentAndCourse": [
+          227
+        ],
+        "riskAndPrognosticFactors": [
+          228
+        ]
+      }
+    },
+    "Schizophrenia Spectrum and Other Psychotic Disorders::Schizoaffective Disorder": {
+      "titlePages": [
+        232
+      ],
+      "sectionPages": {
+        "criteria": [
+          232,
+          235,
+          238
+        ],
+        "specifiers": [
+          233
+        ],
+        "differentialDiagnosis": [
+          237
+        ],
+        "comorbidity": [
+          232,
+          238
+        ],
+        "diagnosticFeatures": [
+          234
+        ],
+        "associatedFeatures": [
+          235
+        ],
+        "prevalence": [
+          235
+        ],
+        "developmentAndCourse": [
+          235
+        ],
+        "associationWithSuicidalThoughtsOrBehavior": [
+          237
+        ]
+      }
+    },
+    "Schizophrenia Spectrum and Other Psychotic Disorders::Substance/Medication-Induced Psychotic Disorder": {
+      "titlePages": [
+        238
+      ],
+      "sectionPages": {
+        "criteria": [
+          238,
+          241,
+          244
+        ],
+        "specifiers": [
+          244
+        ],
+        "differentialDiagnosis": [
+          243
+        ],
+        "comorbidity": [
+          238
+        ],
+        "diagnosticFeatures": [
+          240
+        ],
+        "prevalence": [
+          242
+        ],
+        "developmentAndCourse": [
+          242
+        ],
+        "diagnosticMarkers": [
+          242
+        ]
+      }
+    },
+    "Schizophrenia Spectrum and Other Psychotic Disorders::Psychotic Disorder Due to Another Medical Condition": {
+      "titlePages": [
+        244
+      ],
+      "sectionPages": {
+        "criteria": [
+          244,
+          248,
+          250
+        ],
+        "specifiers": [
+          244
+        ],
+        "differentialDiagnosis": [
+          247
+        ],
+        "comorbidity": [
+          248
+        ],
+        "diagnosticFeatures": [
+          245,
+          249
+        ],
+        "prevalence": [
+          246
+        ],
+        "developmentAndCourse": [
+          246
+        ]
+      }
+    },
+    "Schizophrenia Spectrum and Other Psychotic Disorders::Catatonia Associated With Another Mental Disorder (Catatonia Specifier)": {
+      "titlePages": [
+        249
+      ],
+      "sectionPages": {
+        "criteria": [
+          250
+        ],
+        "differentialDiagnosis": [
+          251
+        ],
+        "diagnosticFeatures": [
+          249,
+          251
+        ]
+      }
+    },
+    "Schizophrenia Spectrum and Other Psychotic Disorders::Catatonic Disorder Due to Another Medical Condition": {
+      "titlePages": [
+        250
+      ],
+      "sectionPages": {
+        "criteria": [
+          250
+        ],
+        "differentialDiagnosis": [
+          251
+        ],
+        "diagnosticFeatures": [
+          251
+        ]
+      }
+    },
+    "Schizophrenia Spectrum and Other Psychotic Disorders::Unspecified Catatonia": {
+      "titlePages": [
+        252
+      ],
+      "sectionPages": {}
+    },
+    "Schizophrenia Spectrum and Other Psychotic Disorders::Other Specified Schizophrenia Spectrum and Other Psychotic Disorder": {
+      "titlePages": [
+        252
+      ],
+      "sectionPages": {}
+    },
+    "Schizophrenia Spectrum and Other Psychotic Disorders::Unspecified Schizophrenia Spectrum and Other Psychotic Disorder": {
+      "titlePages": [
+        220
+      ],
+      "sectionPages": {
+        "criteria": [
+          220,
+          222,
+          223,
+          226
+        ],
+        "differentialDiagnosis": [
+          220,
+          221,
+          223
+        ],
+        "comorbidity": [
+          221
+        ]
+      }
+    },
+    "Bipolar and Related Disorders::Bipolar I Disorder": {
+      "titlePages": [
+        255
+      ],
+      "sectionPages": {
+        "criteria": [
+          255
+        ],
+        "specifiers": [
+          259
+        ],
+        "diagnosticFeatures": [
+          260
+        ]
+      }
+    },
+    "Bipolar and Related Disorders::Bipolar II Disorder": {
+      "titlePages": [
+        268
+      ],
+      "sectionPages": {
+        "criteria": [
+          268
+        ],
+        "specifiers": [
+          271
+        ],
+        "differentialDiagnosis": [
+          273
+        ],
+        "comorbidity": [
+          268
+        ],
+        "diagnosticFeatures": [
+          272
+        ],
+        "prevalence": [
+          268,
+          274
+        ],
+        "developmentAndCourse": [
+          274
+        ]
+      }
+    },
+    "Bipolar and Related Disorders::Cyclothymic Disorder": {
+      "titlePages": [
+        279
+      ],
+      "sectionPages": {
+        "criteria": [
+          279,
+          282
+        ],
+        "differentialDiagnosis": [
+          281
+        ],
+        "comorbidity": [
+          282
+        ],
+        "diagnosticFeatures": [
+          279,
+          284
+        ],
+        "prevalence": [
+          280,
+          285
+        ],
+        "developmentAndCourse": [
+          280
+        ],
+        "riskAndPrognosticFactors": [
+          281
+        ]
+      }
+    },
+    "Bipolar and Related Disorders::Substance/Medication-Induced Bipolar and Related Disorder": {
+      "titlePages": [
+        267
+      ],
+      "sectionPages": {
+        "criteria": [
+          268
+        ],
+        "specifiers": [
+          271
+        ],
+        "differentialDiagnosis": [
+          273
+        ],
+        "comorbidity": [
+          268
+        ],
+        "diagnosticFeatures": [
+          272
+        ],
+        "prevalence": [
+          268
+        ]
+      }
+    },
+    "Bipolar and Related Disorders::Bipolar and Related Disorder Due to Another Medical Condition": {
+      "titlePages": [
+        266
+      ],
+      "sectionPages": {
+        "criteria": [
+          268
+        ],
+        "specifiers": [
+          271
+        ],
+        "differentialDiagnosis": [
+          266
+        ],
+        "comorbidity": [
+          268
+        ],
+        "diagnosticFeatures": [
+          272
+        ]
+      }
+    },
+    "Bipolar and Related Disorders::Other Specified Bipolar and Related Disorder": {
+      "titlePages": [
+        289
+      ],
+      "sectionPages": {
+        "differentialDiagnosis": [
+          289
+        ],
+        "comorbidity": [
+          289
+        ]
+      }
+    },
+    "Bipolar and Related Disorders::Unspecified Bipolar and Related Disorder": {
+      "titlePages": [
+        291
+      ],
+      "sectionPages": {}
+    },
+    "Depressive Disorders::Disruptive Mood Dysregulation Disorder": {
+      "titlePages": [
+        303
+      ],
+      "sectionPages": {
+        "criteria": [
+          303,
+          308,
+          309
+        ],
+        "differentialDiagnosis": [
+          306
+        ],
+        "comorbidity": [
+          308
+        ],
+        "diagnosticFeatures": [
+          304
+        ],
+        "prevalence": [
+          304,
+          305
+        ],
+        "developmentAndCourse": [
+          305
+        ],
+        "riskAndPrognosticFactors": [
+          305
+        ]
+      }
+    },
+    "Depressive Disorders::Major Depressive Disorder": {
+      "titlePages": [
+        309
+      ],
+      "sectionPages": {
+        "criteria": [
+          309
+        ],
+        "specifiers": [
+          310,
+          311
+        ],
+        "diagnosticFeatures": [
+          311
+        ],
+        "prevalence": [
+          314,
+          315
+        ],
+        "developmentAndCourse": [
+          315
+        ]
+      }
+    },
+    "Depressive Disorders::Persistent Depressive Disorder (Dysthymia)": {
+      "titlePages": [
+        320
+      ],
+      "sectionPages": {
+        "criteria": [
+          320
+        ],
+        "specifiers": [
+          321,
+          322
+        ],
+        "diagnosticFeatures": [
+          322
+        ],
+        "riskAndPrognosticFactors": [
+          323
+        ],
+        "differentialDiagnosis": [
+          324,
+          325
+        ],
+        "comorbidity": [
+          325
+        ]
+      }
+    },
+    "Depressive Disorders::Premenstrual Dysphoric Disorder": {
+      "titlePages": [
+        325
+      ],
+      "sectionPages": {
+        "criteria": [
+          325,
+          327,
+          330
+        ],
+        "differentialDiagnosis": [
+          328,
+          329
+        ],
+        "comorbidity": [
+          325,
+          329
+        ],
+        "diagnosticFeatures": [
+          326
+        ],
+        "prevalence": [
+          327,
+          328,
+          329
+        ],
+        "developmentAndCourse": [
+          327
+        ],
+        "riskAndPrognosticFactors": [
+          328
+        ],
+        "associationWithSuicidalThoughtsOrBehavior": [
+          328
+        ]
+      }
+    },
+    "Depressive Disorders::Substance/Medication-Induced Depressive Disorder": {
+      "titlePages": [
+        330
+      ],
+      "sectionPages": {
+        "criteria": [
+          330,
+          336
+        ],
+        "differentialDiagnosis": [
+          335
+        ],
+        "comorbidity": [
+          336
+        ],
+        "diagnosticFeatures": [
+          332
+        ],
+        "prevalence": [
+          334
+        ],
+        "developmentAndCourse": [
+          334
+        ],
+        "associationWithSuicidalThoughtsOrBehavior": [
+          335
+        ]
+      }
+    },
+    "Depressive Disorders::Depressive Disorder Due to Another Medical Condition": {
+      "titlePages": [
+        336
+      ],
+      "sectionPages": {
+        "criteria": [
+          336
+        ],
+        "specifiers": [
+          342
+        ],
+        "differentialDiagnosis": [
+          339,
+          340
+        ],
+        "comorbidity": [
+          336,
+          340
+        ],
+        "diagnosticFeatures": [
+          337
+        ],
+        "associatedFeatures": [
+          337
+        ],
+        "developmentAndCourse": [
+          338
+        ]
+      }
+    },
+    "Depressive Disorders::Other Specified Depressive Disorder": {
+      "titlePages": [
+        340
+      ],
+      "sectionPages": {
+        "differentialDiagnosis": [
+          340
+        ],
+        "comorbidity": [
+          340
+        ]
+      }
+    },
+    "Depressive Disorders::Unspecified Depressive Disorder": {
+      "titlePages": [
+        341
+      ],
+      "sectionPages": {}
+    },
+    "Anxiety Disorders::Separation Anxiety Disorder": {
+      "titlePages": [
+        352
+      ],
+      "sectionPages": {
+        "criteria": [
+          352,
+          358
+        ],
+        "differentialDiagnosis": [
+          356
+        ],
+        "comorbidity": [
+          356,
+          357
+        ],
+        "diagnosticFeatures": [
+          353,
+          358
+        ],
+        "prevalence": [
+          354
+        ],
+        "developmentAndCourse": [
+          354
+        ],
+        "riskAndPrognosticFactors": [
+          355
+        ]
+      }
+    },
+    "Anxiety Disorders::Selective Mutism": {
+      "titlePages": [
+        358
+      ],
+      "sectionPages": {
+        "criteria": [
+          358,
+          361
+        ],
+        "differentialDiagnosis": [
+          360
+        ],
+        "comorbidity": [
+          360
+        ],
+        "diagnosticFeatures": [
+          358,
+          362
+        ],
+        "associatedFeatures": [
+          358,
+          363
+        ],
+        "prevalence": [
+          359,
+          363,
+          364
+        ],
+        "developmentAndCourse": [
+          359,
+          364
+        ]
+      }
+    },
+    "Anxiety Disorders::Specific Phobia": {
+      "titlePages": [
+        361
+      ],
+      "sectionPages": {
+        "criteria": [
+          361,
+          366,
+          367
+        ],
+        "specifiers": [
+          362
+        ],
+        "differentialDiagnosis": [
+          366
+        ],
+        "comorbidity": [
+          367
+        ],
+        "diagnosticFeatures": [
+          362
+        ],
+        "prevalence": [
+          363,
+          364,
+          365
+        ],
+        "developmentAndCourse": [
+          364
+        ],
+        "associationWithSuicidalThoughtsOrBehavior": [
+          365
+        ]
+      }
+    },
+    "Anxiety Disorders::Social Anxiety Disorder (Social Phobia)": {
+      "titlePages": [
+        367
+      ],
+      "sectionPages": {
+        "criteria": [
+          367
+        ],
+        "specifiers": [
+          368
+        ],
+        "diagnosticFeatures": [
+          368
+        ],
+        "prevalence": [
+          370
+        ],
+        "riskAndPrognosticFactors": [
+          371
+        ],
+        "associationWithSuicidalThoughtsOrBehavior": [
+          372
+        ],
+        "comorbidity": [
+          374
+        ]
+      }
+    },
+    "Anxiety Disorders::Panic Disorder": {
+      "titlePages": [
+        374
+      ],
+      "sectionPages": {
+        "criteria": [
+          374
+        ],
+        "comorbidity": [
+          374,
+          376,
+          378,
+          379,
+          380
+        ],
+        "diagnosticFeatures": [
+          375
+        ],
+        "prevalence": [
+          377,
+          378
+        ],
+        "developmentAndCourse": [
+          377
+        ],
+        "associationWithSuicidalThoughtsOrBehavior": [
+          380
+        ]
+      }
+    },
+    "Anxiety Disorders::Agoraphobia": {
+      "titlePages": [
+        387
+      ],
+      "sectionPages": {
+        "criteria": [
+          387,
+          389,
+          393
+        ],
+        "differentialDiagnosis": [
+          391
+        ],
+        "comorbidity": [
+          387,
+          392
+        ],
+        "diagnosticFeatures": [
+          388,
+          393
+        ],
+        "prevalence": [
+          389,
+          390,
+          391
+        ],
+        "developmentAndCourse": [
+          390
+        ],
+        "associationWithSuicidalThoughtsOrBehavior": [
+          391
+        ]
+      }
+    },
+    "Anxiety Disorders::Generalized Anxiety Disorder": {
+      "titlePages": [
+        393
+      ],
+      "sectionPages": {
+        "criteria": [
+          393,
+          398
+        ],
+        "differentialDiagnosis": [
+          397
+        ],
+        "comorbidity": [
+          395,
+          396,
+          398
+        ],
+        "diagnosticFeatures": [
+          393
+        ],
+        "prevalence": [
+          394,
+          395,
+          396
+        ],
+        "developmentAndCourse": [
+          395
+        ],
+        "associationWithSuicidalThoughtsOrBehavior": [
+          396
+        ]
+      }
+    },
+    "Anxiety Disorders::Substance/Medication-Induced Anxiety Disorder": {
+      "titlePages": [
+        398
+      ],
+      "sectionPages": {
+        "criteria": [
+          398,
+          402
+        ],
+        "differentialDiagnosis": [
+          401,
+          404
+        ],
+        "comorbidity": [
+          398
+        ],
+        "diagnosticFeatures": [
+          400,
+          403
+        ],
+        "prevalence": [
+          401,
+          404
+        ],
+        "diagnosticMarkers": [
+          401,
+          404
+        ]
+      }
+    },
+    "Anxiety Disorders::Anxiety Disorder Due to Another Medical Condition": {
+      "titlePages": [
+        402
+      ],
+      "sectionPages": {
+        "criteria": [
+          402
+        ],
+        "differentialDiagnosis": [
+          404
+        ],
+        "diagnosticFeatures": [
+          403
+        ],
+        "prevalence": [
+          404
+        ],
+        "developmentAndCourse": [
+          404
+        ]
+      }
+    },
+    "Anxiety Disorders::Other Specified Anxiety Disorder": {
+      "titlePages": [
+        405
+      ],
+      "sectionPages": {}
+    },
+    "Anxiety Disorders::Unspecified Anxiety Disorder": {
+      "titlePages": [
+        406
+      ],
+      "sectionPages": {}
+    },
+    "Obsessive-Compulsive and Related Disorders::Obsessive-Compulsive Disorder": {
+      "titlePages": [
+        410
+      ],
+      "sectionPages": {
+        "criteria": [
+          410
+        ],
+        "specifiers": [
+          411
+        ],
+        "differentialDiagnosis": [
+          416
+        ],
+        "comorbidity": [
+          412,
+          414
+        ],
+        "diagnosticFeatures": [
+          412
+        ],
+        "prevalence": [
+          413,
+          414
+        ],
+        "developmentAndCourse": [
+          413
+        ],
+        "riskAndPrognosticFactors": [
+          414
+        ],
+        "associationWithSuicidalThoughtsOrBehavior": [
+          415
+        ]
+      }
+    },
+    "Obsessive-Compulsive and Related Disorders::Body Dysmorphic Disorder": {
+      "titlePages": [
+        418
+      ],
+      "sectionPages": {
+        "criteria": [
+          418,
+          423
+        ],
+        "specifiers": [
+          419
+        ],
+        "differentialDiagnosis": [
+          423
+        ],
+        "comorbidity": [
+          418,
+          421,
+          422,
+          424
+        ],
+        "diagnosticFeatures": [
+          419
+        ],
+        "prevalence": [
+          418,
+          421
+        ],
+        "developmentAndCourse": [
+          421
+        ],
+        "riskAndPrognosticFactors": [
+          421
+        ],
+        "associationWithSuicidalThoughtsOrBehavior": [
+          422
+        ]
+      }
+    },
+    "Obsessive-Compulsive and Related Disorders::Hoarding Disorder": {
+      "titlePages": [
+        425
+      ],
+      "sectionPages": {
+        "criteria": [
+          425,
+          430
+        ],
+        "specifiers": [
+          426
+        ],
+        "differentialDiagnosis": [
+          428
+        ],
+        "comorbidity": [
+          430
+        ],
+        "diagnosticFeatures": [
+          426,
+          430
+        ],
+        "prevalence": [
+          427,
+          431
+        ],
+        "developmentAndCourse": [
+          427
+        ],
+        "riskAndPrognosticFactors": [
+          428
+        ]
+      }
+    },
+    "Obsessive-Compulsive and Related Disorders::Trichotillomania (Hair-Pulling Disorder)": {
+      "titlePages": [
+        430
+      ],
+      "sectionPages": {
+        "criteria": [
+          430,
+          433,
+          436
+        ],
+        "differentialDiagnosis": [
+          432,
+          436
+        ],
+        "comorbidity": [
+          430,
+          433
+        ],
+        "diagnosticFeatures": [
+          430,
+          434
+        ],
+        "prevalence": [
+          431,
+          435
+        ],
+        "developmentAndCourse": [
+          432,
+          435
+        ],
+        "riskAndPrognosticFactors": [
+          432,
+          435
+        ]
+      }
+    },
+    "Obsessive-Compulsive and Related Disorders::Excoriation (Skin-Picking) Disorder": {
+      "titlePages": [
+        433
+      ],
+      "sectionPages": {
+        "criteria": [
+          433,
+          436,
+          437
+        ],
+        "differentialDiagnosis": [
+          436
+        ],
+        "comorbidity": [
+          433,
+          437
+        ],
+        "diagnosticFeatures": [
+          434,
+          439
+        ],
+        "prevalence": [
+          435
+        ],
+        "developmentAndCourse": [
+          435
+        ],
+        "riskAndPrognosticFactors": [
+          435
+        ]
+      }
+    },
+    "Obsessive-Compulsive and Related Disorders::Substance/Medication-Induced Obsessive-Compulsive and Related Disorder": {
+      "titlePages": [
+        438
+      ],
+      "sectionPages": {
+        "criteria": [
+          441
+        ],
+        "differentialDiagnosis": [
+          440,
+          443
+        ],
+        "diagnosticFeatures": [
+          439,
+          442
+        ],
+        "prevalence": [
+          440
+        ],
+        "developmentAndCourse": [
+          443
+        ],
+        "diagnosticMarkers": [
+          443
+        ]
+      }
+    },
+    "Obsessive-Compulsive and Related Disorders::Obsessive-Compulsive and Related Disorder Due to Another Medical Condition": {
+      "titlePages": [
+        441
+      ],
+      "sectionPages": {
+        "criteria": [
+          441
+        ],
+        "differentialDiagnosis": [
+          443
+        ],
+        "diagnosticFeatures": [
+          442
+        ],
+        "developmentAndCourse": [
+          443
+        ],
+        "diagnosticMarkers": [
+          443
+        ]
+      }
+    },
+    "Obsessive-Compulsive and Related Disorders::Other Specified Obsessive-Compulsive and Related Disorder": {
+      "titlePages": [
+        445
+      ],
+      "sectionPages": {}
+    },
+    "Obsessive-Compulsive and Related Disorders::Unspecified Obsessive-Compulsive and Related Disorder": {
+      "titlePages": [
+        446
+      ],
+      "sectionPages": {}
+    },
+    "Trauma- and Stressor-Related Disorders::Reactive Attachment Disorder": {
+      "titlePages": [
+        448
+      ],
+      "sectionPages": {
+        "criteria": [
+          448,
+          452
+        ],
+        "differentialDiagnosis": [
+          451
+        ],
+        "comorbidity": [
+          452
+        ],
+        "diagnosticFeatures": [
+          449,
+          453
+        ],
+        "prevalence": [
+          450,
+          453,
+          454
+        ],
+        "developmentAndCourse": [
+          450,
+          454
+        ],
+        "riskAndPrognosticFactors": [
+          450,
+          454
+        ]
+      }
+    },
+    "Trauma- and Stressor-Related Disorders::Disinhibited Social Engagement Disorder": {
+      "titlePages": [
+        452
+      ],
+      "sectionPages": {
+        "criteria": [
+          452,
+          455,
+          458
+        ],
+        "differentialDiagnosis": [
+          455
+        ],
+        "comorbidity": [
+          452,
+          455
+        ],
+        "diagnosticFeatures": [
+          453
+        ],
+        "prevalence": [
+          453,
+          454
+        ],
+        "developmentAndCourse": [
+          454
+        ],
+        "riskAndPrognosticFactors": [
+          454
+        ]
+      }
+    },
+    "Trauma- and Stressor-Related Disorders::Posttraumatic Stress Disorder": {
+      "titlePages": [
+        455
+      ],
+      "sectionPages": {
+        "criteria": [
+          455,
+          458,
+          460
+        ],
+        "differentialDiagnosis": [
+          455
+        ],
+        "comorbidity": [
+          455
+        ],
+        "diagnosticFeatures": [
+          460
+        ]
+      }
+    },
+    "Trauma- and Stressor-Related Disorders::Posttraumatic Stress Disorder in Children 6 Years and Younger": {
+      "titlePages": [
+        458
+      ],
+      "sectionPages": {
+        "criteria": [
+          458,
+          460
+        ],
+        "diagnosticFeatures": [
+          460
+        ]
+      }
+    },
+    "Trauma- and Stressor-Related Disorders::Acute Stress Disorder": {
+      "titlePages": [
+        470
+      ],
+      "sectionPages": {
+        "criteria": [
+          470
+        ],
+        "differentialDiagnosis": [
+          470,
+          476
+        ],
+        "comorbidity": [
+          470
+        ],
+        "diagnosticFeatures": [
+          472
+        ],
+        "prevalence": [
+          474,
+          475
+        ],
+        "developmentAndCourse": [
+          474
+        ]
+      }
+    },
+    "Trauma- and Stressor-Related Disorders::Adjustment Disorders": {
+      "titlePages": [
+        477
+      ],
+      "sectionPages": {
+        "criteria": [
+          477,
+          481
+        ],
+        "specifiers": [
+          478
+        ],
+        "differentialDiagnosis": [
+          477,
+          480
+        ],
+        "comorbidity": [
+          481
+        ],
+        "diagnosticFeatures": [
+          478,
+          482
+        ],
+        "prevalence": [
+          479
+        ],
+        "developmentAndCourse": [
+          479
+        ],
+        "associationWithSuicidalThoughtsOrBehavior": [
+          480
+        ]
+      }
+    },
+    "Trauma- and Stressor-Related Disorders::Prolonged Grief Disorder": {
+      "titlePages": [
+        481
+      ],
+      "sectionPages": {
+        "criteria": [
+          481
+        ],
+        "differentialDiagnosis": [
+          486
+        ],
+        "comorbidity": [
+          481,
+          487
+        ],
+        "diagnosticFeatures": [
+          482
+        ],
+        "prevalence": [
+          484,
+          485,
+          486
+        ],
+        "developmentAndCourse": [
+          484
+        ],
+        "associationWithSuicidalThoughtsOrBehavior": [
+          486
+        ]
+      }
+    },
+    "Trauma- and Stressor-Related Disorders::Other Specified Trauma- and Stressor-Related Disorder": {
+      "titlePages": [
+        487
+      ],
+      "sectionPages": {
+        "comorbidity": [
+          487
+        ]
+      }
+    },
+    "Trauma- and Stressor-Related Disorders::Unspecified Trauma- and Stressor-Related Disorder": {
+      "titlePages": [
+        488
+      ],
+      "sectionPages": {}
+    },
+    "Dissociative Disorders::Dissociative Identity Disorder": {
+      "titlePages": [
+        492
+      ],
+      "sectionPages": {
+        "criteria": [
+          492,
+          498
+        ],
+        "differentialDiagnosis": [
+          498
+        ],
+        "diagnosticFeatures": [
+          493
+        ],
+        "associatedFeatures": [
+          495
+        ],
+        "prevalence": [
+          495
+        ],
+        "developmentAndCourse": [
+          495
+        ],
+        "riskAndPrognosticFactors": [
+          496
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          497
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          497
+        ],
+        "associationWithSuicidalThoughtsOrBehavior": [
+          497
+        ],
+        "functionalConsequencesOfDissociativeIdentityDisorder": [
+          497
+        ]
+      }
+    },
+    "Dissociative Disorders::Dissociative Amnesia": {
+      "titlePages": [
+        491
+      ],
+      "sectionPages": {
+        "criteria": [
+          492
+        ],
+        "diagnosticFeatures": [
+          493
+        ],
+        "associatedFeatures": [
+          495
+        ],
+        "prevalence": [
+          495
+        ],
+        "developmentAndCourse": [
+          495
+        ],
+        "riskAndPrognosticFactors": [
+          496
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          497
+        ],
+        "associationWithSuicidalThoughtsOrBehavior": [
+          497
+        ]
+      }
+    },
+    "Dissociative Disorders::Depersonalization/Derealization Disorder": {
+      "titlePages": [
+        491
+      ],
+      "sectionPages": {
+        "criteria": [
+          492
+        ],
+        "diagnosticFeatures": [
+          493
+        ],
+        "associatedFeatures": [
+          495
+        ],
+        "prevalence": [
+          495
+        ],
+        "developmentAndCourse": [
+          495
+        ],
+        "riskAndPrognosticFactors": [
+          496
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          497
+        ]
+      }
+    },
+    "Dissociative Disorders::Other Specified Dissociative Disorder": {
+      "titlePages": [
+        492
+      ],
+      "sectionPages": {
+        "criteria": [
+          492,
+          498
+        ]
+      }
+    },
+    "Dissociative Disorders::Unspecified Dissociative Disorder": {
+      "titlePages": [
+        513
+      ],
+      "sectionPages": {}
+    },
+    "Somatic Symptom and Related Disorders::Somatic Symptom Disorder": {
+      "titlePages": [
+        518
+      ],
+      "sectionPages": {
+        "criteria": [
+          518,
+          520,
+          523
+        ],
+        "differentialDiagnosis": [
+          523
+        ],
+        "comorbidity": [
+          521,
+          523
+        ],
+        "diagnosticFeatures": [
+          519
+        ],
+        "associatedFeatures": [
+          520
+        ],
+        "prevalence": [
+          520,
+          521
+        ],
+        "developmentAndCourse": [
+          521
+        ],
+        "riskAndPrognosticFactors": [
+          521
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          522
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          522
+        ],
+        "associationWithSuicidalThoughtsOrBehavior": [
+          523
+        ],
+        "functionalConsequencesOfSomaticSymptomDisorder": [
+          523
+        ]
+      }
+    },
+    "Somatic Symptom and Related Disorders::Illness Anxiety Disorder": {
+      "titlePages": [
+        525
+      ],
+      "sectionPages": {
+        "criteria": [
+          525,
+          529
+        ],
+        "differentialDiagnosis": [
+          528
+        ],
+        "comorbidity": [
+          525,
+          528,
+          529
+        ],
+        "diagnosticFeatures": [
+          526,
+          530
+        ],
+        "associatedFeatures": [
+          527,
+          531
+        ],
+        "prevalence": [
+          527,
+          528
+        ],
+        "developmentAndCourse": [
+          527
+        ],
+        "riskAndPrognosticFactors": [
+          527
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          528
+        ],
+        "functionalConsequencesOfIllnessAnxietyDisorder": [
+          528
+        ]
+      }
+    },
+    "Somatic Symptom and Related Disorders::Functional Neurological Symptom Disorder (Conversion Disorder)": {
+      "titlePages": [
+        524
+      ],
+      "sectionPages": {
+        "criteria": [
+          525,
+          529
+        ],
+        "differentialDiagnosis": [
+          528
+        ],
+        "comorbidity": [
+          525,
+          528,
+          529
+        ],
+        "diagnosticFeatures": [
+          526,
+          530
+        ],
+        "associatedFeatures": [
+          527
+        ],
+        "prevalence": [
+          527,
+          528
+        ],
+        "developmentAndCourse": [
+          527
+        ],
+        "riskAndPrognosticFactors": [
+          527
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          528
+        ]
+      }
+    },
+    "Somatic Symptom and Related Disorders::Psychological Factors Affecting Other Medical Conditions": {
+      "titlePages": [
+        523
+      ],
+      "sectionPages": {
+        "criteria": [
+          523,
+          525,
+          529
+        ],
+        "differentialDiagnosis": [
+          523,
+          528
+        ],
+        "comorbidity": [
+          523,
+          525,
+          528,
+          529
+        ],
+        "diagnosticFeatures": [
+          526
+        ],
+        "prevalence": [
+          527,
+          528
+        ],
+        "developmentAndCourse": [
+          527
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          528
+        ]
+      }
+    },
+    "Somatic Symptom and Related Disorders::Factitious Disorder Imposed on Self": {
+      "titlePages": [
+        538
+      ],
+      "sectionPages": {
+        "criteria": [
+          538
+        ],
+        "differentialDiagnosis": [
+          540
+        ],
+        "recordingProcedures": [
+          538
+        ],
+        "diagnosticFeatures": [
+          539
+        ],
+        "associatedFeatures": [
+          539
+        ],
+        "prevalence": [
+          540
+        ],
+        "developmentAndCourse": [
+          540
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          540
+        ]
+      }
+    },
+    "Somatic Symptom and Related Disorders::Factitious Disorder Imposed on Another (Previously Factitious Disorder by Proxy)": {
+      "titlePages": [
+        538
+      ],
+      "sectionPages": {
+        "criteria": [
+          538
+        ],
+        "recordingProcedures": [
+          538
+        ],
+        "diagnosticFeatures": [
+          538,
+          539
+        ],
+        "associatedFeatures": [
+          539
+        ],
+        "prevalence": [
+          539
+        ],
+        "developmentAndCourse": [
+          539
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          540
+        ]
+      }
+    },
+    "Somatic Symptom and Related Disorders::Other Specified Somatic Symptom and Related Disorder": {
+      "titlePages": [
+        541
+      ],
+      "sectionPages": {}
+    },
+    "Somatic Symptom and Related Disorders::Unspecified Somatic Symptom and Related Disorder": {
+      "titlePages": [
+        541
+      ],
+      "sectionPages": {}
+    },
+    "Feeding and Eating Disorders::Pica": {
+      "titlePages": [
+        544
+      ],
+      "sectionPages": {
+        "criteria": [
+          544,
+          547,
+          550
+        ],
+        "differentialDiagnosis": [
+          546,
+          549
+        ],
+        "comorbidity": [
+          547,
+          549
+        ],
+        "diagnosticFeatures": [
+          545,
+          548,
+          550
+        ],
+        "associatedFeatures": [
+          545,
+          548
+        ],
+        "prevalence": [
+          545,
+          546,
+          548,
+          549
+        ],
+        "developmentAndCourse": [
+          546,
+          549
+        ],
+        "riskAndPrognosticFactors": [
+          546,
+          549
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          546
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          546
+        ],
+        "diagnosticMarkers": [
+          546
+        ],
+        "functionalConsequencesOfPica": [
+          546
+        ]
+      }
+    },
+    "Feeding and Eating Disorders::Rumination Disorder": {
+      "titlePages": [
+        547
+      ],
+      "sectionPages": {
+        "criteria": [
+          547,
+          550,
+          551
+        ],
+        "differentialDiagnosis": [
+          549,
+          553
+        ],
+        "comorbidity": [
+          547,
+          549
+        ],
+        "diagnosticFeatures": [
+          548,
+          550
+        ],
+        "associatedFeatures": [
+          548,
+          551,
+          552
+        ],
+        "prevalence": [
+          548,
+          549,
+          552
+        ],
+        "developmentAndCourse": [
+          549,
+          552
+        ],
+        "riskAndPrognosticFactors": [
+          549,
+          552
+        ],
+        "functionalConsequencesOfRuminationDisorder": [
+          549
+        ]
+      }
+    },
+    "Feeding and Eating Disorders::Avoidant/Restrictive Food Intake Disorder": {
+      "titlePages": [
+        550
+      ],
+      "sectionPages": {
+        "criteria": [
+          550,
+          551,
+          554,
+          556
+        ],
+        "differentialDiagnosis": [
+          553,
+          554,
+          555
+        ],
+        "comorbidity": [
+          556
+        ],
+        "diagnosticFeatures": [
+          550
+        ],
+        "associatedFeatures": [
+          551,
+          552
+        ],
+        "prevalence": [
+          552
+        ],
+        "developmentAndCourse": [
+          552
+        ],
+        "riskAndPrognosticFactors": [
+          552
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          553
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          553
+        ],
+        "functionalConsequencesOfAvoidantRestrictiveFoodIntakeDisorder": [
+          553
+        ]
+      }
+    },
+    "Feeding and Eating Disorders::Anorexia Nervosa": {
+      "titlePages": [
+        556
+      ],
+      "sectionPages": {
+        "criteria": [
+          556
+        ],
+        "differentialDiagnosis": [
+          560,
+          562
+        ],
+        "comorbidity": [
+          556,
+          562
+        ],
+        "subtypes": [
+          557
+        ],
+        "diagnosticFeatures": [
+          557
+        ],
+        "associatedFeatures": [
+          559
+        ],
+        "prevalence": [
+          560
+        ],
+        "developmentAndCourse": [
+          560
+        ],
+        "riskAndPrognosticFactors": [
+          560
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          561
+        ],
+        "diagnosticMarkers": [
+          561
+        ],
+        "associationWithSuicidalThoughtsOrBehavior": [
+          562
+        ],
+        "functionalConsequencesOfAnorexiaNervosa": [
+          562
+        ]
+      }
+    },
+    "Feeding and Eating Disorders::Bulimia Nervosa": {
+      "titlePages": [
+        564
+      ],
+      "sectionPages": {
+        "criteria": [
+          564,
+          570
+        ],
+        "differentialDiagnosis": [
+          569
+        ],
+        "comorbidity": [
+          568,
+          569
+        ],
+        "diagnosticFeatures": [
+          565
+        ],
+        "associatedFeatures": [
+          566
+        ],
+        "prevalence": [
+          567,
+          568,
+          570
+        ],
+        "developmentAndCourse": [
+          567
+        ],
+        "riskAndPrognosticFactors": [
+          567
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          568
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          568
+        ],
+        "diagnosticMarkers": [
+          568
+        ],
+        "associationWithSuicidalThoughtsOrBehavior": [
+          569
+        ],
+        "functionalConsequencesOfBulimiaNervosa": [
+          569
+        ]
+      }
+    },
+    "Feeding and Eating Disorders::Binge-Eating Disorder": {
+      "titlePages": [
+        570
+      ],
+      "sectionPages": {
+        "criteria": [
+          570
+        ],
+        "specifiers": [
+          574
+        ],
+        "differentialDiagnosis": [
+          573
+        ],
+        "comorbidity": [
+          572,
+          574
+        ],
+        "diagnosticFeatures": [
+          571
+        ],
+        "associatedFeatures": [
+          572
+        ],
+        "prevalence": [
+          570,
+          572
+        ],
+        "developmentAndCourse": [
+          572
+        ],
+        "riskAndPrognosticFactors": [
+          573
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          573
+        ],
+        "associationWithSuicidalThoughtsOrBehavior": [
+          573
+        ],
+        "functionalConsequencesOfBingeEatingDisorder": [
+          573
+        ]
+      }
+    },
+    "Feeding and Eating Disorders::Other Specified Feeding or Eating Disorder": {
+      "titlePages": [
+        574
+      ],
+      "sectionPages": {}
+    },
+    "Feeding and Eating Disorders::Unspecified Feeding or Eating Disorder": {
+      "titlePages": [
+        575
+      ],
+      "sectionPages": {}
+    },
+    "Elimination Disorders::Enuresis": {
+      "titlePages": [
+        577
+      ],
+      "sectionPages": {
+        "criteria": [
+          577,
+          581
+        ],
+        "differentialDiagnosis": [
+          580
+        ],
+        "comorbidity": [
+          580
+        ],
+        "subtypes": [
+          577,
+          581
+        ],
+        "diagnosticFeatures": [
+          578,
+          581
+        ],
+        "associatedFeatures": [
+          578,
+          582
+        ],
+        "prevalence": [
+          578,
+          579,
+          580,
+          582
+        ],
+        "developmentAndCourse": [
+          579,
+          582
+        ],
+        "riskAndPrognosticFactors": [
+          579,
+          583
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          579,
+          583
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          580,
+          583
+        ],
+        "functionalConsequencesOfEnuresis": [
+          580
+        ]
+      }
+    },
+    "Elimination Disorders::Encopresis": {
+      "titlePages": [
+        581
+      ],
+      "sectionPages": {
+        "criteria": [
+          581
+        ],
+        "differentialDiagnosis": [
+          584
+        ],
+        "comorbidity": [
+          584
+        ],
+        "subtypes": [
+          581
+        ],
+        "diagnosticFeatures": [
+          581
+        ],
+        "associatedFeatures": [
+          582
+        ],
+        "prevalence": [
+          582
+        ],
+        "developmentAndCourse": [
+          582
+        ],
+        "riskAndPrognosticFactors": [
+          583
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          583
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          583
+        ],
+        "diagnosticMarkers": [
+          583
+        ],
+        "functionalConsequencesOfEncopresis": [
+          584
+        ]
+      }
+    },
+    "Elimination Disorders::Other Specified Elimination Disorder": {
+      "titlePages": [
+        584
+      ],
+      "sectionPages": {}
+    },
+    "Elimination Disorders::Unspecified Elimination Disorder": {
+      "titlePages": [
+        584
+      ],
+      "sectionPages": {}
+    },
+    "Sleep-Wake Disorders::Insomnia Disorder": {
+      "titlePages": [
+        590
+      ],
+      "sectionPages": {
+        "criteria": [
+          590
+        ],
+        "specifiers": [
+          590,
+          591
+        ],
+        "differentialDiagnosis": [
+          595
+        ],
+        "comorbidity": [
+          595
+        ],
+        "recordingProcedures": [
+          591
+        ],
+        "diagnosticFeatures": [
+          591
+        ],
+        "associatedFeatures": [
+          593
+        ],
+        "prevalence": [
+          592,
+          593,
+          594,
+          595,
+          596
+        ],
+        "developmentAndCourse": [
+          594
+        ],
+        "riskAndPrognosticFactors": [
+          595
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          596
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          596
+        ],
+        "diagnosticMarkers": [
+          596
+        ]
+      }
+    },
+    "Sleep-Wake Disorders::Hypersomnolence Disorder": {
+      "titlePages": [
+        599
+      ],
+      "sectionPages": {
+        "criteria": [
+          599,
+          604
+        ],
+        "specifiers": [
+          600
+        ],
+        "differentialDiagnosis": [
+          602
+        ],
+        "comorbidity": [
+          604
+        ],
+        "recordingProcedures": [
+          600
+        ],
+        "diagnosticFeatures": [
+          600
+        ],
+        "associatedFeatures": [
+          601
+        ],
+        "prevalence": [
+          601
+        ],
+        "developmentAndCourse": [
+          601
+        ],
+        "riskAndPrognosticFactors": [
+          602
+        ],
+        "diagnosticMarkers": [
+          602
+        ],
+        "functionalConsequencesOfHypersomnolenceDisorder": [
+          602
+        ],
+        "relationshipToInternationalClassificationOfSleepDisorders": [
+          599,
+          604
+        ]
+      }
+    },
+    "Sleep-Wake Disorders::Narcolepsy": {
+      "titlePages": [
+        604
+      ],
+      "sectionPages": {
+        "criteria": [
+          604
+        ],
+        "comorbidity": [
+          604
+        ],
+        "subtypes": [
+          604,
+          606
+        ],
+        "diagnosticFeatures": [
+          606
+        ],
+        "associatedFeatures": [
+          608
+        ],
+        "prevalence": [
+          608,
+          609
+        ],
+        "developmentAndCourse": [
+          608
+        ],
+        "riskAndPrognosticFactors": [
+          609
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          609
+        ],
+        "diagnosticMarkers": [
+          609,
+          610
+        ],
+        "relationshipToInternationalClassificationOfSleepDisorders": [
+          604
+        ]
+      }
+    },
+    "Sleep-Wake Disorders::Breathing-Related Sleep Disorders": {
+      "titlePages": [
+        613
+      ],
+      "sectionPages": {}
+    },
+    "Sleep-Wake Disorders::Obstructive Sleep Apnea Hypopnea": {
+      "titlePages": [
+        613
+      ],
+      "sectionPages": {
+        "criteria": [
+          613
+        ],
+        "specifiers": [
+          614
+        ],
+        "differentialDiagnosis": [
+          618
+        ],
+        "comorbidity": [
+          613,
+          619
+        ],
+        "diagnosticFeatures": [
+          614
+        ],
+        "associatedFeatures": [
+          615
+        ],
+        "prevalence": [
+          615,
+          616,
+          617
+        ],
+        "developmentAndCourse": [
+          616
+        ],
+        "riskAndPrognosticFactors": [
+          617
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          617
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          617
+        ],
+        "diagnosticMarkers": [
+          617
+        ],
+        "functionalConsequencesOfObstructiveSleepApneaHypopnea": [
+          618
+        ],
+        "relationshipToInternationalClassificationOfSleepDisorders": [
+          613
+        ]
+      }
+    },
+    "Sleep-Wake Disorders::Central Sleep Apnea": {
+      "titlePages": [
+        620
+      ],
+      "sectionPages": {
+        "criteria": [
+          620,
+          625
+        ],
+        "specifiers": [
+          621
+        ],
+        "differentialDiagnosis": [
+          624
+        ],
+        "comorbidity": [
+          624,
+          626
+        ],
+        "subtypes": [
+          620,
+          621,
+          625,
+          626
+        ],
+        "diagnosticFeatures": [
+          622,
+          626
+        ],
+        "associatedFeatures": [
+          622,
+          626
+        ],
+        "prevalence": [
+          622,
+          623
+        ],
+        "developmentAndCourse": [
+          623
+        ],
+        "riskAndPrognosticFactors": [
+          623
+        ],
+        "diagnosticMarkers": [
+          623
+        ],
+        "functionalConsequencesOfCentralSleepApnea": [
+          624
+        ],
+        "relationshipToInternationalClassificationOfSleepDisorders": [
+          620,
+          625
+        ]
+      }
+    },
+    "Sleep-Wake Disorders::Sleep-Related Hypoventilation": {
+      "titlePages": [
+        625
+      ],
+      "sectionPages": {
+        "criteria": [
+          625,
+          630
+        ],
+        "differentialDiagnosis": [
+          629
+        ],
+        "comorbidity": [
+          626,
+          629
+        ],
+        "subtypes": [
+          625,
+          626,
+          629
+        ],
+        "diagnosticFeatures": [
+          626,
+          631
+        ],
+        "associatedFeatures": [
+          626,
+          631
+        ],
+        "prevalence": [
+          627,
+          628,
+          631
+        ],
+        "developmentAndCourse": [
+          627,
+          631
+        ],
+        "riskAndPrognosticFactors": [
+          627
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          628
+        ],
+        "diagnosticMarkers": [
+          628
+        ],
+        "functionalConsequencesOfSleepRelatedHypoventilation": [
+          628
+        ],
+        "relationshipToInternationalClassificationOfSleepDisorders": [
+          625,
+          629
+        ]
+      }
+    },
+    "Sleep-Wake Disorders::Circadian Rhythm Sleep-Wake Disorders": {
+      "titlePages": [
+        630
+      ],
+      "sectionPages": {
+        "criteria": [
+          630
+        ],
+        "specifiers": [
+          633
+        ]
+      }
+    },
+    "Sleep-Wake Disorders::Delayed Sleep Phase Type": {
+      "titlePages": [
+        631
+      ],
+      "sectionPages": {
+        "specifiers": [
+          633
+        ],
+        "differentialDiagnosis": [
+          633,
+          635,
+          636
+        ],
+        "comorbidity": [
+          633,
+          635,
+          636
+        ],
+        "diagnosticFeatures": [
+          631,
+          633,
+          635,
+          637
+        ],
+        "associatedFeatures": [
+          631,
+          634,
+          635,
+          637
+        ],
+        "prevalence": [
+          631,
+          632,
+          633,
+          634,
+          636,
+          637
+        ],
+        "developmentAndCourse": [
+          631,
+          634,
+          636,
+          637
+        ],
+        "riskAndPrognosticFactors": [
+          632,
+          634,
+          636,
+          637
+        ],
+        "diagnosticMarkers": [
+          632,
+          635,
+          636
+        ],
+        "functionalConsequencesOfDelayedSleepPhaseType": [
+          632
+        ]
+      }
+    },
+    "Sleep-Wake Disorders::Advanced Sleep Phase Type": {
+      "titlePages": [
+        633
+      ],
+      "sectionPages": {
+        "specifiers": [
+          633
+        ],
+        "differentialDiagnosis": [
+          633,
+          635,
+          636,
+          638,
+          639
+        ],
+        "comorbidity": [
+          633,
+          635,
+          636,
+          638
+        ],
+        "diagnosticFeatures": [
+          633,
+          635,
+          637,
+          638
+        ],
+        "associatedFeatures": [
+          634,
+          635,
+          637
+        ],
+        "prevalence": [
+          633,
+          634,
+          636,
+          637,
+          639
+        ],
+        "developmentAndCourse": [
+          634,
+          636,
+          637,
+          639
+        ],
+        "riskAndPrognosticFactors": [
+          634,
+          636,
+          637,
+          639
+        ],
+        "diagnosticMarkers": [
+          635,
+          636,
+          638,
+          639
+        ],
+        "functionalConsequencesOfAdvancedSleepPhaseType": [
+          635
+        ]
+      }
+    },
+    "Sleep-Wake Disorders::Irregular Sleep-Wake Type": {
+      "titlePages": [
+        635
+      ],
+      "sectionPages": {
+        "criteria": [
+          640
+        ],
+        "differentialDiagnosis": [
+          635,
+          636,
+          638,
+          639
+        ],
+        "comorbidity": [
+          635,
+          636,
+          638,
+          640
+        ],
+        "diagnosticFeatures": [
+          635,
+          637,
+          638,
+          641
+        ],
+        "associatedFeatures": [
+          635,
+          637
+        ],
+        "prevalence": [
+          636,
+          637,
+          639
+        ],
+        "developmentAndCourse": [
+          636,
+          637,
+          639
+        ],
+        "riskAndPrognosticFactors": [
+          636,
+          637,
+          639
+        ],
+        "diagnosticMarkers": [
+          635,
+          636,
+          638,
+          639
+        ],
+        "functionalConsequencesOfIrregularSleepWakeType": [
+          636
+        ]
+      }
+    },
+    "Sleep-Wake Disorders::Non-24-Hour Sleep-Wake Type": {
+      "titlePages": [
+        636
+      ],
+      "sectionPages": {
+        "criteria": [
+          640
+        ],
+        "differentialDiagnosis": [
+          636,
+          638,
+          639
+        ],
+        "comorbidity": [
+          636,
+          638,
+          640
+        ],
+        "diagnosticFeatures": [
+          637,
+          638,
+          641
+        ],
+        "associatedFeatures": [
+          637,
+          642
+        ],
+        "prevalence": [
+          636,
+          637,
+          639
+        ],
+        "developmentAndCourse": [
+          636,
+          637,
+          639
+        ],
+        "riskAndPrognosticFactors": [
+          636,
+          637,
+          639
+        ],
+        "diagnosticMarkers": [
+          636,
+          638,
+          639
+        ],
+        "functionalConsequencesOfNon24HourSleepWakeType": [
+          638
+        ]
+      }
+    },
+    "Sleep-Wake Disorders::Shift Work Type": {
+      "titlePages": [
+        638
+      ],
+      "sectionPages": {
+        "criteria": [
+          640
+        ],
+        "differentialDiagnosis": [
+          638,
+          639
+        ],
+        "comorbidity": [
+          638,
+          640
+        ],
+        "diagnosticFeatures": [
+          638,
+          641
+        ],
+        "prevalence": [
+          639,
+          643,
+          644
+        ],
+        "developmentAndCourse": [
+          639,
+          643
+        ],
+        "riskAndPrognosticFactors": [
+          639,
+          643
+        ],
+        "diagnosticMarkers": [
+          638,
+          639,
+          644
+        ],
+        "functionalConsequencesOfShiftWorkType": [
+          639
+        ]
+      }
+    },
+    "Sleep-Wake Disorders::Unspecified Circadian Rhythm Sleep-Wake Disorder": {
+      "titlePages": [
+        631
+      ],
+      "sectionPages": {}
+    },
+    "Sleep-Wake Disorders::Parasomnias": {
+      "titlePages": [
+        640
+      ],
+      "sectionPages": {}
+    },
+    "Sleep-Wake Disorders::Non-Rapid Eye Movement Sleep Arousal Disorders": {
+      "titlePages": [
+        640
+      ],
+      "sectionPages": {
+        "criteria": [
+          640,
+          646
+        ],
+        "differentialDiagnosis": [
+          645
+        ],
+        "comorbidity": [
+          640,
+          646
+        ],
+        "diagnosticFeatures": [
+          641
+        ],
+        "associatedFeatures": [
+          642
+        ],
+        "prevalence": [
+          643,
+          644
+        ],
+        "developmentAndCourse": [
+          643
+        ],
+        "riskAndPrognosticFactors": [
+          643
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          644
+        ],
+        "diagnosticMarkers": [
+          644
+        ],
+        "relationshipToInternationalClassificationOfSleepDisorders": [
+          640,
+          646
+        ]
+      }
+    },
+    "Sleep-Wake Disorders::Nightmare Disorder": {
+      "titlePages": [
+        646
+      ],
+      "sectionPages": {
+        "criteria": [
+          646,
+          652
+        ],
+        "specifiers": [
+          647
+        ],
+        "differentialDiagnosis": [
+          650
+        ],
+        "comorbidity": [
+          646,
+          651
+        ],
+        "recordingProcedures": [
+          647,
+          651
+        ],
+        "diagnosticFeatures": [
+          648,
+          652
+        ],
+        "associatedFeatures": [
+          648
+        ],
+        "prevalence": [
+          648,
+          649
+        ],
+        "developmentAndCourse": [
+          649
+        ],
+        "riskAndPrognosticFactors": [
+          649
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          649
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          649
+        ],
+        "diagnosticMarkers": [
+          650
+        ],
+        "associationWithSuicidalThoughtsOrBehavior": [
+          650
+        ],
+        "functionalConsequencesOfNightmareDisorder": [
+          650
+        ],
+        "relationshipToInternationalClassificationOfSleepDisorders": [
+          646,
+          651
+        ]
+      }
+    },
+    "Sleep-Wake Disorders::Rapid Eye Movement Sleep Behavior Disorder": {
+      "titlePages": [
+        652
+      ],
+      "sectionPages": {
+        "criteria": [
+          652,
+          656
+        ],
+        "differentialDiagnosis": [
+          654
+        ],
+        "comorbidity": [
+          655
+        ],
+        "diagnosticFeatures": [
+          652,
+          656
+        ],
+        "prevalence": [
+          653,
+          657,
+          658
+        ],
+        "developmentAndCourse": [
+          653,
+          657
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          653,
+          658
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          653,
+          658
+        ],
+        "diagnosticMarkers": [
+          654
+        ],
+        "relationshipToInternationalClassificationOfSleepDisorders": [
+          656
+        ]
+      }
+    },
+    "Sleep-Wake Disorders::Restless Legs Syndrome": {
+      "titlePages": [
+        656
+      ],
+      "sectionPages": {
+        "criteria": [
+          656,
+          660
+        ],
+        "differentialDiagnosis": [
+          659
+        ],
+        "comorbidity": [
+          659
+        ],
+        "diagnosticFeatures": [
+          656
+        ],
+        "associatedFeatures": [
+          657
+        ],
+        "prevalence": [
+          657,
+          658,
+          659
+        ],
+        "developmentAndCourse": [
+          657
+        ],
+        "riskAndPrognosticFactors": [
+          658
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          658
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          658
+        ],
+        "diagnosticMarkers": [
+          659
+        ],
+        "functionalConsequencesOfRestlessLegsSyndrome": [
+          659
+        ],
+        "relationshipToInternationalClassificationOfSleepDisorders": [
+          656,
+          660
+        ]
+      }
+    },
+    "Sleep-Wake Disorders::Substance/Medication-Induced Sleep Disorder": {
+      "titlePages": [
+        660
+      ],
+      "sectionPages": {
+        "criteria": [
+          660
+        ],
+        "specifiers": [
+          663
+        ],
+        "recordingProcedures": [
+          662
+        ],
+        "diagnosticFeatures": [
+          663
+        ],
+        "developmentAndCourse": [
+          665
+        ],
+        "riskAndPrognosticFactors": [
+          666
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          666
+        ],
+        "diagnosticMarkers": [
+          666
+        ],
+        "relationshipToInternationalClassificationOfSleepDisorders": [
+          660
+        ]
+      }
+    },
+    "Sleep-Wake Disorders::Other Specified Insomnia Disorder": {
+      "titlePages": [
+        668
+      ],
+      "sectionPages": {}
+    },
+    "Sleep-Wake Disorders::Unspecified Insomnia Disorder": {
+      "titlePages": [
+        669
+      ],
+      "sectionPages": {}
+    },
+    "Sleep-Wake Disorders::Other Specified Hypersomnolence Disorder": {
+      "titlePages": [
+        669
+      ],
+      "sectionPages": {}
+    },
+    "Sleep-Wake Disorders::Unspecified Hypersomnolence Disorder": {
+      "titlePages": [
+        669
+      ],
+      "sectionPages": {}
+    },
+    "Sleep-Wake Disorders::Other Specified Sleep-Wake Disorder": {
+      "titlePages": [
+        670
+      ],
+      "sectionPages": {}
+    },
+    "Sleep-Wake Disorders::Unspecified Sleep-Wake Disorder": {
+      "titlePages": [
+        670
+      ],
+      "sectionPages": {}
+    },
+    "Sexual Dysfunctions::Delayed Ejaculation": {
+      "titlePages": [
+        673
+      ],
+      "sectionPages": {
+        "criteria": [
+          673,
+          677
+        ],
+        "differentialDiagnosis": [
+          676
+        ],
+        "comorbidity": [
+          675,
+          677,
+          679
+        ],
+        "diagnosticFeatures": [
+          674,
+          678
+        ],
+        "associatedFeatures": [
+          675,
+          678
+        ],
+        "prevalence": [
+          675,
+          676,
+          679
+        ],
+        "developmentAndCourse": [
+          675,
+          679
+        ],
+        "riskAndPrognosticFactors": [
+          676
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          676
+        ],
+        "functionalConsequencesOfDelayedEjaculation": [
+          676
+        ]
+      }
+    },
+    "Sexual Dysfunctions::Erectile Disorder": {
+      "titlePages": [
+        677
+      ],
+      "sectionPages": {
+        "criteria": [
+          677,
+          682
+        ],
+        "differentialDiagnosis": [
+          681
+        ],
+        "comorbidity": [
+          677,
+          679,
+          681
+        ],
+        "diagnosticFeatures": [
+          678,
+          683
+        ],
+        "associatedFeatures": [
+          678,
+          683
+        ],
+        "prevalence": [
+          679,
+          680
+        ],
+        "developmentAndCourse": [
+          679
+        ],
+        "riskAndPrognosticFactors": [
+          680
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          680
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          680
+        ],
+        "diagnosticMarkers": [
+          680
+        ],
+        "associationWithSuicidalThoughtsOrBehavior": [
+          680
+        ],
+        "functionalConsequencesOfErectileDisorder": [
+          681
+        ]
+      }
+    },
+    "Sexual Dysfunctions::Female Orgasmic Disorder": {
+      "titlePages": [
+        682
+      ],
+      "sectionPages": {
+        "criteria": [
+          682,
+          686
+        ],
+        "differentialDiagnosis": [
+          685
+        ],
+        "comorbidity": [
+          684,
+          686
+        ],
+        "diagnosticFeatures": [
+          683,
+          687
+        ],
+        "associatedFeatures": [
+          683,
+          688
+        ],
+        "prevalence": [
+          684,
+          685
+        ],
+        "developmentAndCourse": [
+          684
+        ],
+        "riskAndPrognosticFactors": [
+          684
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          685
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          685
+        ],
+        "diagnosticMarkers": [
+          685
+        ],
+        "associationWithSuicidalThoughtsOrBehavior": [
+          685
+        ],
+        "functionalConsequencesOfFemaleOrgasmicDisorder": [
+          685
+        ]
+      }
+    },
+    "Sexual Dysfunctions::Female Sexual Interest/Arousal Disorder": {
+      "titlePages": [
+        686
+      ],
+      "sectionPages": {
+        "criteria": [
+          686,
+          691
+        ],
+        "differentialDiagnosis": [
+          690,
+          691
+        ],
+        "comorbidity": [
+          686,
+          689,
+          691
+        ],
+        "diagnosticFeatures": [
+          687,
+          692
+        ],
+        "associatedFeatures": [
+          688
+        ],
+        "prevalence": [
+          689,
+          690
+        ],
+        "developmentAndCourse": [
+          689
+        ],
+        "riskAndPrognosticFactors": [
+          689
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          690
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          690
+        ],
+        "associationWithSuicidalThoughtsOrBehavior": [
+          690
+        ],
+        "functionalConsequencesOfFemaleSexualInterestArousalDisorder": [
+          690
+        ]
+      }
+    },
+    "Sexual Dysfunctions::Genito-Pelvic Pain/Penetration Disorder": {
+      "titlePages": [
+        691
+      ],
+      "sectionPages": {
+        "criteria": [
+          691,
+          697
+        ],
+        "differentialDiagnosis": [
+          691,
+          696
+        ],
+        "comorbidity": [
+          691,
+          694,
+          697
+        ],
+        "diagnosticFeatures": [
+          692
+        ],
+        "associatedFeatures": [
+          693
+        ],
+        "prevalence": [
+          694,
+          696,
+          697
+        ],
+        "developmentAndCourse": [
+          694
+        ],
+        "riskAndPrognosticFactors": [
+          695
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          695
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          696
+        ],
+        "diagnosticMarkers": [
+          696
+        ],
+        "functionalConsequencesOfGenitoPelvicPainPenetrationDisorder": [
+          696
+        ]
+      }
+    },
+    "Sexual Dysfunctions::Male Hypoactive Sexual Desire Disorder": {
+      "titlePages": [
+        697
+      ],
+      "sectionPages": {
+        "criteria": [
+          697,
+          701,
+          702
+        ],
+        "differentialDiagnosis": [
+          701
+        ],
+        "comorbidity": [
+          697,
+          699,
+          701,
+          703
+        ],
+        "diagnosticFeatures": [
+          698,
+          702
+        ],
+        "associatedFeatures": [
+          699,
+          703
+        ],
+        "prevalence": [
+          697,
+          699,
+          700,
+          703
+        ],
+        "developmentAndCourse": [
+          699,
+          703
+        ],
+        "riskAndPrognosticFactors": [
+          700,
+          703
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          700
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          700
+        ]
+      }
+    },
+    "Sexual Dysfunctions::Premature (Early) Ejaculation": {
+      "titlePages": [
+        701
+      ],
+      "sectionPages": {
+        "criteria": [
+          701,
+          702,
+          705
+        ],
+        "differentialDiagnosis": [
+          701,
+          704
+        ],
+        "comorbidity": [
+          701,
+          703,
+          705
+        ],
+        "diagnosticFeatures": [
+          702,
+          707
+        ],
+        "associatedFeatures": [
+          703
+        ],
+        "prevalence": [
+          703
+        ],
+        "developmentAndCourse": [
+          703
+        ],
+        "riskAndPrognosticFactors": [
+          703
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          704
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          704
+        ],
+        "diagnosticMarkers": [
+          704
+        ],
+        "associationWithSuicidalThoughtsOrBehavior": [
+          704
+        ],
+        "functionalConsequencesOfPremature(early)Ejaculation": [
+          704
+        ]
+      }
+    },
+    "Sexual Dysfunctions::Substance/Medication-Induced Sexual Dysfunction": {
+      "titlePages": [
+        705
+      ],
+      "sectionPages": {
+        "criteria": [
+          705
+        ],
+        "differentialDiagnosis": [
+          710
+        ],
+        "comorbidity": [
+          705
+        ],
+        "recordingProcedures": [
+          707
+        ],
+        "diagnosticFeatures": [
+          707
+        ],
+        "associatedFeatures": [
+          708
+        ],
+        "prevalence": [
+          708,
+          709
+        ],
+        "developmentAndCourse": [
+          709
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          709
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          709
+        ]
+      }
+    },
+    "Sexual Dysfunctions::Other Specified Sexual Dysfunction": {
+      "titlePages": [
+        710
+      ],
+      "sectionPages": {}
+    },
+    "Sexual Dysfunctions::Unspecified Sexual Dysfunction": {
+      "titlePages": [
+        710
+      ],
+      "sectionPages": {}
+    },
+    "Gender Dysphoria::Gender Dysphoria in Children": {
+      "titlePages": [
+        714
+      ],
+      "sectionPages": {
+        "criteria": [
+          714,
+          720
+        ],
+        "specifiers": [
+          716
+        ],
+        "diagnosticFeatures": [
+          716
+        ],
+        "associatedFeatures": [
+          717
+        ],
+        "prevalence": [
+          718
+        ],
+        "developmentAndCourse": [
+          718
+        ],
+        "riskAndPrognosticFactors": [
+          720
+        ]
+      }
+    },
+    "Gender Dysphoria::Gender Dysphoria in Adolescents and Adults": {
+      "titlePages": [
+        715
+      ],
+      "sectionPages": {
+        "criteria": [
+          720
+        ],
+        "specifiers": [
+          716
+        ],
+        "diagnosticFeatures": [
+          716
+        ],
+        "associatedFeatures": [
+          717
+        ],
+        "prevalence": [
+          718
+        ],
+        "developmentAndCourse": [
+          718
+        ],
+        "riskAndPrognosticFactors": [
+          720
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          721
+        ]
+      }
+    },
+    "Gender Dysphoria::Other Specified Gender Dysphoria": {
+      "titlePages": [
+        724
+      ],
+      "sectionPages": {}
+    },
+    "Gender Dysphoria::Unspecified Gender Dysphoria": {
+      "titlePages": [
+        724
+      ],
+      "sectionPages": {}
+    },
+    "Disruptive, Impulse-Control, and Conduct Disorders::Oppositional Defiant Disorder": {
+      "titlePages": [
+        728
+      ],
+      "sectionPages": {
+        "criteria": [
+          728,
+          734
+        ],
+        "specifiers": [
+          729
+        ],
+        "diagnosticFeatures": [
+          729
+        ],
+        "associatedFeatures": [
+          730
+        ]
+      }
+    },
+    "Disruptive, Impulse-Control, and Conduct Disorders::Intermittent Explosive Disorder": {
+      "titlePages": [
+        734
+      ],
+      "sectionPages": {
+        "criteria": [
+          734,
+          738
+        ]
+      }
+    },
+    "Disruptive, Impulse-Control, and Conduct Disorders::Conduct Disorder": {
+      "titlePages": [
+        738
+      ],
+      "sectionPages": {
+        "criteria": [
+          738
+        ],
+        "specifiers": [
+          741
+        ]
+      }
+    },
+    "Disruptive, Impulse-Control, and Conduct Disorders::Pyromania": {
+      "titlePages": [
+        747
+      ],
+      "sectionPages": {
+        "criteria": [
+          747,
+          749
+        ]
+      }
+    },
+    "Disruptive, Impulse-Control, and Conduct Disorders::Kleptomania": {
+      "titlePages": [
+        749
+      ],
+      "sectionPages": {
+        "criteria": [
+          749
+        ]
+      }
+    },
+    "Disruptive, Impulse-Control, and Conduct Disorders::Other Specified Disruptive, Impulse-Control, and Conduct Disorder": {
+      "titlePages": [
+        751
+      ],
+      "sectionPages": {}
+    },
+    "Disruptive, Impulse-Control, and Conduct Disorders::Unspecified Disruptive, Impulse-Control, and Conduct Disorder": {
+      "titlePages": [
+        752
+      ],
+      "sectionPages": {}
+    },
+    "Substance-Related and Addictive Disorders::Alcohol Use Disorder": {
+      "titlePages": [
+        765
+      ],
+      "sectionPages": {
+        "criteria": [
+          765,
+          767,
+          771
+        ],
+        "specifiers": [
+          767
+        ],
+        "diagnosticFeatures": [
+          767
+        ],
+        "associatedFeatures": [
+          768
+        ],
+        "prevalence": [
+          769,
+          771
+        ],
+        "developmentAndCourse": [
+          769
+        ],
+        "riskAndPrognosticFactors": [
+          770
+        ],
+        "diagnosticMarkers": [
+          767
+        ]
+      }
+    },
+    "Substance-Related and Addictive Disorders::Alcohol Intoxication": {
+      "titlePages": [
+        765
+      ],
+      "sectionPages": {
+        "criteria": [
+          765,
+          767,
+          771
+        ],
+        "diagnosticFeatures": [
+          767
+        ],
+        "associatedFeatures": [
+          768
+        ],
+        "prevalence": [
+          769,
+          771
+        ],
+        "developmentAndCourse": [
+          769
+        ],
+        "riskAndPrognosticFactors": [
+          770
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          771
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          771
+        ],
+        "diagnosticMarkers": [
+          767
+        ]
+      }
+    },
+    "Substance-Related and Addictive Disorders::Alcohol Withdrawal": {
+      "titlePages": [
+        765
+      ],
+      "sectionPages": {
+        "criteria": [
+          765,
+          767,
+          771
+        ],
+        "specifiers": [
+          767
+        ],
+        "diagnosticFeatures": [
+          767
+        ],
+        "associatedFeatures": [
+          768
+        ],
+        "prevalence": [
+          769,
+          771
+        ],
+        "developmentAndCourse": [
+          769
+        ],
+        "riskAndPrognosticFactors": [
+          770
+        ],
+        "diagnosticMarkers": [
+          767
+        ]
+      }
+    },
+    "Substance-Related and Addictive Disorders::Caffeine Intoxication": {
+      "titlePages": [
+        784
+      ],
+      "sectionPages": {
+        "criteria": [
+          784,
+          787
+        ],
+        "differentialDiagnosis": [
+          786,
+          790
+        ],
+        "comorbidity": [
+          787,
+          790
+        ],
+        "diagnosticFeatures": [
+          785,
+          788
+        ],
+        "associatedFeatures": [
+          785,
+          788
+        ],
+        "prevalence": [
+          785,
+          786,
+          788
+        ],
+        "developmentAndCourse": [
+          786,
+          789
+        ],
+        "riskAndPrognosticFactors": [
+          786,
+          789
+        ],
+        "functionalConsequencesOfCaffeineIntoxication": [
+          786
+        ]
+      }
+    },
+    "Substance-Related and Addictive Disorders::Caffeine Withdrawal": {
+      "titlePages": [
+        784
+      ],
+      "sectionPages": {
+        "criteria": [
+          784,
+          787
+        ],
+        "differentialDiagnosis": [
+          786,
+          790
+        ],
+        "comorbidity": [
+          787,
+          790
+        ],
+        "diagnosticFeatures": [
+          785,
+          788
+        ],
+        "associatedFeatures": [
+          785,
+          788
+        ],
+        "prevalence": [
+          785,
+          786,
+          788
+        ],
+        "developmentAndCourse": [
+          786,
+          789
+        ],
+        "riskAndPrognosticFactors": [
+          786,
+          789
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          789
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          790
+        ],
+        "functionalConsequencesOfCaffeineWithdrawal": [
+          790
+        ]
+      }
+    },
+    "Substance-Related and Addictive Disorders::Cannabis Use Disorder": {
+      "titlePages": [
+        791
+      ],
+      "sectionPages": {
+        "criteria": [
+          791
+        ],
+        "specifiers": [
+          793
+        ],
+        "diagnosticFeatures": [
+          793
+        ],
+        "associatedFeatures": [
+          795
+        ],
+        "prevalence": [
+          795,
+          796
+        ],
+        "developmentAndCourse": [
+          796
+        ],
+        "riskAndPrognosticFactors": [
+          797
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          797
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          797
+        ]
+      }
+    },
+    "Substance-Related and Addictive Disorders::Cannabis Intoxication": {
+      "titlePages": [
+        791
+      ],
+      "sectionPages": {
+        "criteria": [
+          791
+        ],
+        "specifiers": [
+          793
+        ],
+        "diagnosticFeatures": [
+          793
+        ],
+        "prevalence": [
+          795,
+          796
+        ]
+      }
+    },
+    "Substance-Related and Addictive Disorders::Cannabis Withdrawal": {
+      "titlePages": [
+        791
+      ],
+      "sectionPages": {
+        "criteria": [
+          791
+        ],
+        "diagnosticFeatures": [
+          793
+        ],
+        "associatedFeatures": [
+          795
+        ],
+        "prevalence": [
+          795,
+          796
+        ],
+        "developmentAndCourse": [
+          796
+        ],
+        "riskAndPrognosticFactors": [
+          797
+        ]
+      }
+    },
+    "Substance-Related and Addictive Disorders::Phencyclidine Use Disorder": {
+      "titlePages": [
+        806
+      ],
+      "sectionPages": {
+        "criteria": [
+          806,
+          810
+        ],
+        "specifiers": [
+          808,
+          812
+        ],
+        "differentialDiagnosis": [
+          809
+        ],
+        "comorbidity": [
+          810
+        ],
+        "diagnosticFeatures": [
+          808,
+          812
+        ],
+        "associatedFeatures": [
+          808
+        ],
+        "prevalence": [
+          809
+        ],
+        "riskAndPrognosticFactors": [
+          809
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          809
+        ],
+        "diagnosticMarkers": [
+          809
+        ],
+        "functionalConsequencesOfPhencyclidineUseDisorder": [
+          809
+        ]
+      }
+    },
+    "Substance-Related and Addictive Disorders::Other Hallucinogen Use Disorder": {
+      "titlePages": [
+        806
+      ],
+      "sectionPages": {
+        "criteria": [
+          806,
+          810
+        ],
+        "specifiers": [
+          808,
+          812
+        ],
+        "differentialDiagnosis": [
+          809
+        ],
+        "comorbidity": [
+          810
+        ],
+        "diagnosticFeatures": [
+          808,
+          812
+        ],
+        "associatedFeatures": [
+          808
+        ],
+        "prevalence": [
+          809
+        ],
+        "riskAndPrognosticFactors": [
+          809
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          809
+        ],
+        "diagnosticMarkers": [
+          809
+        ]
+      }
+    },
+    "Substance-Related and Addictive Disorders::Inhalant Use Disorder": {
+      "titlePages": [
+        823
+      ],
+      "sectionPages": {
+        "criteria": [
+          823,
+          826,
+          829
+        ],
+        "specifiers": [
+          825
+        ],
+        "differentialDiagnosis": [
+          828
+        ],
+        "comorbidity": [
+          828
+        ],
+        "diagnosticFeatures": [
+          825
+        ],
+        "associatedFeatures": [
+          826
+        ],
+        "prevalence": [
+          826,
+          827
+        ],
+        "developmentAndCourse": [
+          826
+        ],
+        "riskAndPrognosticFactors": [
+          827
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          827
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          827
+        ],
+        "diagnosticMarkers": [
+          827
+        ],
+        "associationWithSuicidalThoughtsOrBehavior": [
+          827
+        ],
+        "functionalConsequencesOfInhalantUseDisorder": [
+          828
+        ]
+      }
+    },
+    "Substance-Related and Addictive Disorders::Opioid Use Disorder": {
+      "titlePages": [
+        832
+      ],
+      "sectionPages": {
+        "criteria": [
+          832
+        ],
+        "specifiers": [
+          834
+        ],
+        "comorbidity": [
+          838
+        ],
+        "diagnosticFeatures": [
+          835
+        ],
+        "associatedFeatures": [
+          835
+        ],
+        "prevalence": [
+          836,
+          837
+        ],
+        "developmentAndCourse": [
+          836
+        ],
+        "riskAndPrognosticFactors": [
+          837
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          837
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          837
+        ],
+        "diagnosticMarkers": [
+          837
+        ],
+        "associationWithSuicidalThoughtsOrBehavior": [
+          838
+        ],
+        "functionalConsequencesOfOpioidUseDisorder": [
+          838
+        ]
+      }
+    },
+    "Substance-Related and Addictive Disorders::Sedative, Hypnotic, or Anxiolytic Use Disorder": {
+      "titlePages": [
+        846
+      ],
+      "sectionPages": {
+        "criteria": [
+          846
+        ],
+        "specifiers": [
+          849
+        ],
+        "diagnosticFeatures": [
+          849
+        ],
+        "associatedFeatures": [
+          850
+        ],
+        "prevalence": [
+          850,
+          852
+        ],
+        "developmentAndCourse": [
+          851
+        ],
+        "riskAndPrognosticFactors": [
+          851
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          852
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          852
+        ],
+        "diagnosticMarkers": [
+          852
+        ],
+        "associationWithSuicidalThoughtsOrBehavior": [
+          852
+        ]
+      }
+    },
+    "Substance-Related and Addictive Disorders::Stimulant Use Disorder": {
+      "titlePages": [
+        861
+      ],
+      "sectionPages": {
+        "criteria": [
+          861
+        ],
+        "specifiers": [
+          864
+        ],
+        "diagnosticFeatures": [
+          865
+        ],
+        "associatedFeatures": [
+          866
+        ],
+        "prevalence": [
+          866,
+          867
+        ],
+        "developmentAndCourse": [
+          867
+        ],
+        "riskAndPrognosticFactors": [
+          867
+        ]
+      }
+    },
+    "Substance-Related and Addictive Disorders::Tobacco Use Disorder": {
+      "titlePages": [
+        876
+      ],
+      "sectionPages": {
+        "criteria": [
+          877,
+          882
+        ],
+        "specifiers": [
+          878
+        ],
+        "comorbidity": [
+          876,
+          882
+        ],
+        "diagnosticFeatures": [
+          879
+        ],
+        "associatedFeatures": [
+          879
+        ],
+        "prevalence": [
+          879,
+          880,
+          881,
+          882
+        ],
+        "developmentAndCourse": [
+          880
+        ],
+        "riskAndPrognosticFactors": [
+          880
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          881
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          881
+        ],
+        "diagnosticMarkers": [
+          881
+        ],
+        "associationWithSuicidalThoughtsOrBehavior": [
+          881
+        ],
+        "functionalConsequencesOfTobaccoUseDisorder": [
+          881
+        ]
+      }
+    },
+    "Substance-Related and Addictive Disorders::Other (or Unknown) Substance Use Disorder": {
+      "titlePages": [
+        885
+      ],
+      "sectionPages": {
+        "criteria": [
+          885,
+          888,
+          890,
+          891
+        ],
+        "specifiers": [
+          887
+        ],
+        "differentialDiagnosis": [
+          889
+        ],
+        "comorbidity": [
+          890
+        ],
+        "diagnosticFeatures": [
+          887,
+          891
+        ],
+        "associatedFeatures": [
+          888
+        ],
+        "prevalence": [
+          888,
+          889,
+          891
+        ],
+        "developmentAndCourse": [
+          889,
+          891
+        ],
+        "riskAndPrognosticFactors": [
+          889,
+          891
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          889
+        ],
+        "diagnosticMarkers": [
+          889,
+          891
+        ]
+      }
+    },
+    "Substance-Related and Addictive Disorders::Gambling Disorder": {
+      "titlePages": [
+        896
+      ],
+      "sectionPages": {
+        "criteria": [
+          896,
+          897,
+          898
+        ],
+        "specifiers": [
+          897
+        ],
+        "differentialDiagnosis": [
+          901
+        ],
+        "comorbidity": [
+          902
+        ],
+        "diagnosticFeatures": [
+          898
+        ],
+        "associatedFeatures": [
+          898
+        ],
+        "prevalence": [
+          898,
+          899,
+          900
+        ],
+        "developmentAndCourse": [
+          899
+        ],
+        "riskAndPrognosticFactors": [
+          900
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          900
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          900
+        ],
+        "associationWithSuicidalThoughtsOrBehavior": [
+          901
+        ],
+        "functionalConsequencesOfGamblingDisorder": [
+          901
+        ]
+      }
+    },
+    "Neurocognitive Disorders::Delirium": {
+      "titlePages": [
+        907
+      ],
+      "sectionPages": {
+        "criteria": [
+          907
+        ],
+        "specifiers": [
+          911
+        ],
+        "comorbidity": [
+          913
+        ],
+        "diagnosticFeatures": [
+          911
+        ],
+        "associatedFeatures": [
+          912
+        ],
+        "prevalence": [
+          913
+        ],
+        "developmentAndCourse": [
+          913
+        ],
+        "riskAndPrognosticFactors": [
+          913
+        ]
+      }
+    },
+    "Neurocognitive Disorders::Major Neurocognitive Disorder": {
+      "titlePages": [
+        904
+      ],
+      "sectionPages": {
+        "criteria": [
+          904,
+          907
+        ],
+        "differentialDiagnosis": [
+          904
+        ],
+        "comorbidity": [
+          904
+        ],
+        "riskAndPrognosticFactors": [
+          904
+        ]
+      }
+    },
+    "Neurocognitive Disorders::Mild Neurocognitive Disorder": {
+      "titlePages": [
+        917
+      ],
+      "sectionPages": {
+        "criteria": [
+          917,
+          918,
+          919
+        ],
+        "specifiers": [
+          920,
+          921
+        ],
+        "diagnosticFeatures": [
+          922,
+          923
+        ],
+        "prevalence": [
+          923
+        ]
+      }
+    },
+    "Neurocognitive Disorders::Other Specified Delirium": {
+      "titlePages": [
+        915
+      ],
+      "sectionPages": {
+        "criteria": [
+          916,
+          917,
+          918,
+          919
+        ]
+      }
+    },
+    "Neurocognitive Disorders::Unspecified Delirium": {
+      "titlePages": [
+        915
+      ],
+      "sectionPages": {
+        "criteria": [
+          916,
+          917,
+          918,
+          919
+        ]
+      }
+    },
+    "Neurocognitive Disorders::Unspecified Neurocognitive Disorder": {
+      "titlePages": [
+        978
+      ],
+      "sectionPages": {
+        "criteria": [
+          978
+        ]
+      }
+    },
+    "Personality Disorders::General Personality Disorder": {
+      "titlePages": [
+        981
+      ],
+      "sectionPages": {
+        "criteria": [
+          983,
+          985
+        ],
+        "differentialDiagnosis": [
+          984
+        ],
+        "diagnosticFeatures": [
+          982,
+          986
+        ],
+        "developmentAndCourse": [
+          983
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          983
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          984
+        ]
+      }
+    },
+    "Personality Disorders::Paranoid Personality Disorder": {
+      "titlePages": [
+        980
+      ],
+      "sectionPages": {
+        "criteria": [
+          983,
+          985
+        ],
+        "differentialDiagnosis": [
+          984
+        ],
+        "diagnosticFeatures": [
+          982,
+          986
+        ],
+        "prevalence": [
+          981
+        ],
+        "developmentAndCourse": [
+          983
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          983
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          984
+        ]
+      }
+    },
+    "Personality Disorders::Schizoid Personality Disorder": {
+      "titlePages": [
+        980
+      ],
+      "sectionPages": {
+        "criteria": [
+          983,
+          985
+        ],
+        "differentialDiagnosis": [
+          984
+        ],
+        "diagnosticFeatures": [
+          982,
+          986
+        ],
+        "prevalence": [
+          981
+        ],
+        "developmentAndCourse": [
+          983
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          983
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          984
+        ]
+      }
+    },
+    "Personality Disorders::Schizotypal Personality Disorder": {
+      "titlePages": [
+        980
+      ],
+      "sectionPages": {
+        "criteria": [
+          983,
+          985
+        ],
+        "differentialDiagnosis": [
+          984
+        ],
+        "diagnosticFeatures": [
+          982,
+          986
+        ],
+        "prevalence": [
+          981
+        ],
+        "developmentAndCourse": [
+          983
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          983
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          984
+        ]
+      }
+    },
+    "Personality Disorders::Antisocial Personality Disorder": {
+      "titlePages": [
+        980
+      ],
+      "sectionPages": {
+        "criteria": [
+          983,
+          985
+        ],
+        "differentialDiagnosis": [
+          984
+        ],
+        "diagnosticFeatures": [
+          982,
+          986
+        ],
+        "prevalence": [
+          981
+        ],
+        "developmentAndCourse": [
+          983
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          983
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          984
+        ]
+      }
+    },
+    "Personality Disorders::Borderline Personality Disorder": {
+      "titlePages": [
+        980
+      ],
+      "sectionPages": {
+        "criteria": [
+          983,
+          985
+        ],
+        "differentialDiagnosis": [
+          984
+        ],
+        "diagnosticFeatures": [
+          982,
+          986
+        ],
+        "prevalence": [
+          981
+        ],
+        "developmentAndCourse": [
+          983
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          983
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          984
+        ]
+      }
+    },
+    "Personality Disorders::Histrionic Personality Disorder": {
+      "titlePages": [
+        980
+      ],
+      "sectionPages": {
+        "criteria": [
+          983,
+          985
+        ],
+        "differentialDiagnosis": [
+          984
+        ],
+        "diagnosticFeatures": [
+          982,
+          986
+        ],
+        "prevalence": [
+          981
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          983
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          984
+        ]
+      }
+    },
+    "Personality Disorders::Narcissistic Personality Disorder": {
+      "titlePages": [
+        980
+      ],
+      "sectionPages": {
+        "criteria": [
+          983,
+          985
+        ],
+        "differentialDiagnosis": [
+          984
+        ],
+        "diagnosticFeatures": [
+          982,
+          986
+        ],
+        "prevalence": [
+          981
+        ],
+        "developmentAndCourse": [
+          983
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          983
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          984
+        ]
+      }
+    },
+    "Personality Disorders::Avoidant Personality Disorder": {
+      "titlePages": [
+        980
+      ],
+      "sectionPages": {
+        "criteria": [
+          983,
+          985
+        ],
+        "differentialDiagnosis": [
+          984
+        ],
+        "diagnosticFeatures": [
+          982,
+          986
+        ],
+        "prevalence": [
+          981
+        ],
+        "developmentAndCourse": [
+          983
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          983
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          984
+        ]
+      }
+    },
+    "Personality Disorders::Dependent Personality Disorder": {
+      "titlePages": [
+        980
+      ],
+      "sectionPages": {
+        "criteria": [
+          983,
+          985
+        ],
+        "differentialDiagnosis": [
+          984
+        ],
+        "diagnosticFeatures": [
+          982,
+          986
+        ],
+        "prevalence": [
+          981
+        ],
+        "developmentAndCourse": [
+          983
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          983
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          984
+        ]
+      }
+    },
+    "Personality Disorders::Obsessive-Compulsive Personality Disorder": {
+      "titlePages": [
+        980
+      ],
+      "sectionPages": {
+        "criteria": [
+          983,
+          985
+        ],
+        "differentialDiagnosis": [
+          984
+        ],
+        "diagnosticFeatures": [
+          982,
+          986
+        ],
+        "prevalence": [
+          981
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          983
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          984
+        ]
+      }
+    },
+    "Personality Disorders::Personality Change Due to Another Medical Condition": {
+      "titlePages": [
+        980
+      ],
+      "sectionPages": {
+        "criteria": [
+          983,
+          985
+        ],
+        "differentialDiagnosis": [
+          984
+        ],
+        "diagnosticFeatures": [
+          982,
+          986
+        ]
+      }
+    },
+    "Personality Disorders::Other Specified Personality Disorder": {
+      "titlePages": [
+        980
+      ],
+      "sectionPages": {
+        "criteria": [
+          983,
+          985
+        ],
+        "description": [
+          981
+        ]
+      }
+    },
+    "Personality Disorders::Unspecified Personality Disorder": {
+      "titlePages": [
+        981
+      ],
+      "sectionPages": {
+        "criteria": [
+          983,
+          985
+        ],
+        "description": [
+          981
+        ]
+      }
+    },
+    "Paraphilic Disorders::Voyeuristic Disorder": {
+      "titlePages": [
+        1037
+      ],
+      "sectionPages": {
+        "criteria": [
+          1037,
+          1038,
+          1040,
+          1041
+        ],
+        "specifiers": [
+          1038,
+          1041
+        ],
+        "differentialDiagnosis": [
+          1040,
+          1043
+        ],
+        "comorbidity": [
+          1040,
+          1043
+        ],
+        "diagnosticFeatures": [
+          1038,
+          1041
+        ],
+        "prevalence": [
+          1039,
+          1042
+        ],
+        "developmentAndCourse": [
+          1039,
+          1042
+        ],
+        "riskAndPrognosticFactors": [
+          1039,
+          1043
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          1040
+        ]
+      }
+    },
+    "Paraphilic Disorders::Exhibitionistic Disorder": {
+      "titlePages": [
+        1040
+      ],
+      "sectionPages": {
+        "criteria": [
+          1040,
+          1041,
+          1044,
+          1045
+        ],
+        "specifiers": [
+          1041,
+          1044
+        ],
+        "differentialDiagnosis": [
+          1040,
+          1043,
+          1046
+        ],
+        "comorbidity": [
+          1040,
+          1043,
+          1046
+        ],
+        "diagnosticFeatures": [
+          1041,
+          1044
+        ],
+        "subtypes": [
+          1041
+        ],
+        "prevalence": [
+          1042,
+          1045
+        ],
+        "developmentAndCourse": [
+          1042,
+          1045
+        ],
+        "riskAndPrognosticFactors": [
+          1043,
+          1046
+        ]
+      }
+    },
+    "Paraphilic Disorders::Frotteuristic Disorder": {
+      "titlePages": [
+        1044
+      ],
+      "sectionPages": {
+        "criteria": [
+          1044,
+          1045,
+          1047,
+          1049
+        ],
+        "specifiers": [
+          1044
+        ],
+        "differentialDiagnosis": [
+          1046,
+          1049
+        ],
+        "comorbidity": [
+          1046,
+          1049
+        ],
+        "diagnosticFeatures": [
+          1044,
+          1047,
+          1049
+        ],
+        "prevalence": [
+          1045,
+          1048
+        ],
+        "developmentAndCourse": [
+          1045,
+          1048
+        ],
+        "riskAndPrognosticFactors": [
+          1046
+        ]
+      }
+    },
+    "Paraphilic Disorders::Sexual Masochism Disorder": {
+      "titlePages": [
+        1047
+      ],
+      "sectionPages": {
+        "criteria": [
+          1047,
+          1049,
+          1052,
+          1053
+        ],
+        "differentialDiagnosis": [
+          1049,
+          1051
+        ],
+        "comorbidity": [
+          1049,
+          1052
+        ],
+        "diagnosticFeatures": [
+          1047,
+          1049,
+          1053
+        ],
+        "associatedFeatures": [
+          1047,
+          1050
+        ],
+        "prevalence": [
+          1048,
+          1051
+        ],
+        "developmentAndCourse": [
+          1048,
+          1051
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          1048,
+          1051
+        ],
+        "associationWithSuicidalThoughtsOrBehavior": [
+          1048,
+          1051
+        ],
+        "functionalConsequencesOfSexualMasochismDisorder": [
+          1048
+        ]
+      }
+    },
+    "Paraphilic Disorders::Sexual Sadism Disorder": {
+      "titlePages": [
+        1049
+      ],
+      "sectionPages": {
+        "criteria": [
+          1049,
+          1052,
+          1053
+        ],
+        "differentialDiagnosis": [
+          1049,
+          1051
+        ],
+        "comorbidity": [
+          1049,
+          1052
+        ],
+        "diagnosticFeatures": [
+          1049,
+          1053
+        ],
+        "associatedFeatures": [
+          1050,
+          1054
+        ],
+        "prevalence": [
+          1051,
+          1054
+        ],
+        "developmentAndCourse": [
+          1051,
+          1054
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          1051
+        ],
+        "associationWithSuicidalThoughtsOrBehavior": [
+          1051
+        ]
+      }
+    },
+    "Paraphilic Disorders::Pedophilic Disorder": {
+      "titlePages": [
+        1052
+      ],
+      "sectionPages": {
+        "criteria": [
+          1052,
+          1053,
+          1057
+        ],
+        "specifiers": [
+          1057
+        ],
+        "differentialDiagnosis": [
+          1056
+        ],
+        "comorbidity": [
+          1052,
+          1056
+        ],
+        "diagnosticFeatures": [
+          1053,
+          1057
+        ],
+        "associatedFeatures": [
+          1054,
+          1058
+        ],
+        "prevalence": [
+          1054
+        ],
+        "developmentAndCourse": [
+          1054,
+          1058
+        ],
+        "riskAndPrognosticFactors": [
+          1055
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          1055,
+          1058
+        ],
+        "diagnosticMarkers": [
+          1055
+        ]
+      }
+    },
+    "Paraphilic Disorders::Fetishistic Disorder": {
+      "titlePages": [
+        1057
+      ],
+      "sectionPages": {
+        "criteria": [
+          1057,
+          1059
+        ],
+        "specifiers": [
+          1057,
+          1060
+        ],
+        "differentialDiagnosis": [
+          1059,
+          1062
+        ],
+        "comorbidity": [
+          1059,
+          1062
+        ],
+        "diagnosticFeatures": [
+          1057,
+          1060
+        ],
+        "associatedFeatures": [
+          1058,
+          1061
+        ],
+        "developmentAndCourse": [
+          1058,
+          1061
+        ],
+        "cultureRelatedDiagnosticIssues": [
+          1058
+        ],
+        "sexAndGenderRelatedDiagnosticIssues": [
+          1058
+        ],
+        "functionalConsequencesOfFetishisticDisorder": [
+          1058
+        ]
+      }
+    },
+    "Paraphilic Disorders::Transvestic Disorder": {
+      "titlePages": [
+        1059
+      ],
+      "sectionPages": {
+        "criteria": [
+          1059
+        ],
+        "specifiers": [
+          1060
+        ],
+        "differentialDiagnosis": [
+          1059,
+          1062
+        ],
+        "comorbidity": [
+          1059,
+          1062
+        ],
+        "diagnosticFeatures": [
+          1060
+        ],
+        "associatedFeatures": [
+          1061
+        ],
+        "prevalence": [
+          1061
+        ],
+        "developmentAndCourse": [
+          1061
+        ],
+        "functionalConsequencesOfTransvesticDisorder": [
+          1061
+        ]
+      }
+    },
+    "Paraphilic Disorders::Other Specified Paraphilic Disorder": {
+      "titlePages": [
+        1062
+      ],
+      "sectionPages": {}
+    },
+    "Paraphilic Disorders::Unspecified Paraphilic Disorder": {
+      "titlePages": [
+        1063
+      ],
+      "sectionPages": {}
+    },
+    "Other Mental Disorders and Additional Codes::Other Specified Mental Disorder Due to Another Medical Condition": {
+      "titlePages": [
+        1066
+      ],
+      "sectionPages": {}
+    },
+    "Other Mental Disorders and Additional Codes::Unspecified Mental Disorder Due to Another Medical Condition": {
+      "titlePages": [
+        1067
+      ],
+      "sectionPages": {}
+    },
+    "Other Mental Disorders and Additional Codes::Other Specified Mental Disorder": {
+      "titlePages": [
+        1067
+      ],
+      "sectionPages": {}
+    },
+    "Other Mental Disorders and Additional Codes::Unspecified Mental Disorder": {
+      "titlePages": [
+        1067
+      ],
+      "sectionPages": {}
+    },
+    "Other Mental Disorders and Additional Codes::No Diagnosis or Condition": {
+      "titlePages": [
+        1067
+      ],
+      "sectionPages": {}
+    },
+    "Medication-Induced Movement Disorders and Other Adverse Effects of Medication::Medication-Induced Parkinsonism": {
+      "titlePages": [
+        1069
+      ],
+      "sectionPages": {
+        "differentialDiagnosis": [
+          1069,
+          1071,
+          1074,
+          1075
+        ]
+      }
+    },
+    "Medication-Induced Movement Disorders and Other Adverse Effects of Medication::Neuroleptic Malignant Syndrome": {
+      "titlePages": [
+        1072
+      ],
+      "sectionPages": {
+        "differentialDiagnosis": [
+          1074,
+          1075,
+          1077
+        ],
+        "prevalence": [
+          1077
+        ]
+      }
+    },
+    "Medication-Induced Movement Disorders and Other Adverse Effects of Medication::Medication-Induced Acute Dystonia": {
+      "titlePages": [
+        1074
+      ],
+      "sectionPages": {
+        "differentialDiagnosis": [
+          1074,
+          1075,
+          1077,
+          1079
+        ]
+      }
+    },
+    "Medication-Induced Movement Disorders and Other Adverse Effects of Medication::Medication-Induced Acute Akathisia": {
+      "titlePages": [
+        1076
+      ],
+      "sectionPages": {
+        "differentialDiagnosis": [
+          1077,
+          1079,
+          1081
+        ],
+        "prevalence": [
+          1077,
+          1079,
+          1082
+        ]
+      }
+    },
+    "Medication-Induced Movement Disorders and Other Adverse Effects of Medication::Tardive Dyskinesia": {
+      "titlePages": [
+        1078
+      ],
+      "sectionPages": {
+        "differentialDiagnosis": [
+          1079,
+          1081,
+          1083
+        ],
+        "prevalence": [
+          1079,
+          1082
+        ]
+      }
+    },
+    "Medication-Induced Movement Disorders and Other Adverse Effects of Medication::Tardive Dystonia and Tardive Akathisia": {
+      "titlePages": [
+        1080
+      ],
+      "sectionPages": {
+        "diagnosticFeatures": [
+          1080
+        ]
+      }
+    },
+    "Medication-Induced Movement Disorders and Other Adverse Effects of Medication::Medication-Induced Postural Tremor": {
+      "titlePages": [
+        1080
+      ],
+      "sectionPages": {
+        "differentialDiagnosis": [
+          1081,
+          1083
+        ]
+      }
+    },
+    "Medication-Induced Movement Disorders and Other Adverse Effects of Medication::Other Medication-Induced Movement Disorder": {
+      "titlePages": [
+        1081
+      ],
+      "sectionPages": {}
+    },
+    "Medication-Induced Movement Disorders and Other Adverse Effects of Medication::Antidepressant Discontinuation Syndrome": {
+      "titlePages": [
+        1082
+      ],
+      "sectionPages": {
+        "differentialDiagnosis": [
+          1083
+        ],
+        "prevalence": [
+          1082
+        ]
+      }
+    },
+    "Medication-Induced Movement Disorders and Other Adverse Effects of Medication::Other Adverse Effect of Medication": {
+      "titlePages": [
+        1083
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Suicidal Behavior and Nonsuicidal Self-Injury: Suicidal Behavior": {
+      "titlePages": [
+        1085
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Suicidal Behavior and Nonsuicidal Self-Injury: Nonsuicidal Self-Injury": {
+      "titlePages": [
+        1085
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Abuse and Neglect: Child Physical Abuse": {
+      "titlePages": [
+        1085
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Abuse and Neglect: Child Sexual Abuse": {
+      "titlePages": [
+        1085
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Abuse and Neglect: Child Neglect": {
+      "titlePages": [
+        1085
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Abuse and Neglect: Child Psychological Abuse": {
+      "titlePages": [
+        1085
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Abuse and Neglect: Spouse or Partner Violence, Physical": {
+      "titlePages": [
+        1085
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Abuse and Neglect: Spouse or Partner Violence, Sexual": {
+      "titlePages": [
+        1085
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Abuse and Neglect: Spouse or Partner Neglect": {
+      "titlePages": [
+        1085
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Abuse and Neglect: Spouse or Partner Abuse, Psychological": {
+      "titlePages": [
+        1085
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Abuse and Neglect: Adult Abuse by Nonspouse or Nonpartner": {
+      "titlePages": [
+        1085
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Relational Problems: Parent-Child Relational Problem": {
+      "titlePages": [
+        1085
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Relational Problems: Sibling Relational Problem": {
+      "titlePages": [
+        1085
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Relational Problems: Relationship Distress With Spouse or Intimate Partner": {
+      "titlePages": [
+        1085
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Problems Related to Family Environment: Upbringing Away From Parents": {
+      "titlePages": [
+        1095
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Problems Related to Family Environment: Child Affected by Parental Relationship Distress": {
+      "titlePages": [
+        1095
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Problems Related to Family Environment: Disruption of Family by Separation or Divorce": {
+      "titlePages": [
+        1095
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Problems Related to Family Environment: High Expressed Emotion Level Within Family": {
+      "titlePages": [
+        1095
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Educational and Occupational Problems: Illiteracy and Low-Level Literacy": {
+      "titlePages": [
+        1096
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Educational and Occupational Problems: Schooling Unavailable and Unattainable": {
+      "titlePages": [
+        1096
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Educational and Occupational Problems: Failed School Examinations": {
+      "titlePages": [
+        1096
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Educational and Occupational Problems: Underachievement in School": {
+      "titlePages": [
+        1096
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Educational and Occupational Problems: Educational Maladjustment and Discord With Teachers and Classmates": {
+      "titlePages": [
+        1096
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Educational and Occupational Problems: Problems Related to Inadequate Teaching": {
+      "titlePages": [
+        1096
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Educational and Occupational Problems: Other Problems Related to Education and Literacy": {
+      "titlePages": [
+        1096
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Educational and Occupational Problems: Problem Related to Current Military Deployment Status": {
+      "titlePages": [
+        1096
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Educational and Occupational Problems: Unemployment": {
+      "titlePages": [
+        1096
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Educational and Occupational Problems: Change of Job": {
+      "titlePages": [
+        1096
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Educational and Occupational Problems: Threat of Job Loss": {
+      "titlePages": [
+        1097
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Educational and Occupational Problems: Stressful Work Schedule": {
+      "titlePages": [
+        1097
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Educational and Occupational Problems: Discord With Boss and Workmates": {
+      "titlePages": [
+        1097
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Educational and Occupational Problems: Uncongenial Work Environment": {
+      "titlePages": [
+        1097
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Educational and Occupational Problems: Other Physical and Mental Strain Related to Work": {
+      "titlePages": [
+        1097
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Educational and Occupational Problems: Sexual Harassment on the Job": {
+      "titlePages": [
+        1097
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Educational and Occupational Problems: Other Problem Related to Employment": {
+      "titlePages": [
+        1097
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Housing and Economic Problems: Sheltered Homelessness": {
+      "titlePages": [
+        1097
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Housing and Economic Problems: Unsheltered Homelessness": {
+      "titlePages": [
+        1097
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Housing and Economic Problems: Inadequate Housing": {
+      "titlePages": [
+        1097
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Housing and Economic Problems: Discord With Neighbor, Lodger, or Landlord": {
+      "titlePages": [
+        1097
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Housing and Economic Problems: Problem Related to Living in a Residential Institution": {
+      "titlePages": [
+        1097
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Housing and Economic Problems: Other Housing Problem": {
+      "titlePages": [
+        1097
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Housing and Economic Problems: Food Insecurity": {
+      "titlePages": [
+        1098
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Housing and Economic Problems: Lack of Safe Drinking Water": {
+      "titlePages": [
+        1098
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Housing and Economic Problems: Extreme Poverty": {
+      "titlePages": [
+        1098
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Housing and Economic Problems: Low Income": {
+      "titlePages": [
+        1098
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Housing and Economic Problems: Insufficient Social or Health Insurance or Welfare Support": {
+      "titlePages": [
+        1098
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Housing and Economic Problems: Other Economic Problem": {
+      "titlePages": [
+        1098
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Problem Related to Living Alone": {
+      "titlePages": [
+        1098
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Acculturation Difficulty": {
+      "titlePages": [
+        1098
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Social Exclusion or Rejection": {
+      "titlePages": [
+        1098
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Target of (Perceived) Adverse Discrimination or Persecution": {
+      "titlePages": [
+        1099
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Other Problem Related to Social Environment": {
+      "titlePages": [
+        1099
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Conviction in Criminal Proceedings Without Imprisonment": {
+      "titlePages": [
+        1099
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Imprisonment or Other Incarceration": {
+      "titlePages": [
+        1099
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Problems Related to Release From Prison": {
+      "titlePages": [
+        1099
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Problems Related to Other Legal Circumstances": {
+      "titlePages": [
+        1099
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Problem Related to Lifestyle": {
+      "titlePages": [
+        1099
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Problems Related to Unwanted Pregnancy": {
+      "titlePages": [
+        1099
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Problems Related to Multiparity": {
+      "titlePages": [
+        1099
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Discord With Social Service Provider": {
+      "titlePages": [
+        1096
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Victim of Crime": {
+      "titlePages": [
+        1100
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Victim of Terrorism or Torture": {
+      "titlePages": [
+        1100
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Exposure to Disaster, War, or Other Hostilities": {
+      "titlePages": [
+        1100
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Unavailability or Inaccessibility of Health Care Facilities": {
+      "titlePages": [
+        1100
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Unavailability or Inaccessibility of Other Helping Agencies": {
+      "titlePages": [
+        1100
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Personal History of Psychological Trauma": {
+      "titlePages": [
+        1100
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Personal History of Military Deployment": {
+      "titlePages": [
+        1100
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Genetic Counseling": {
+      "titlePages": [
+        1100
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Sex Counseling": {
+      "titlePages": [
+        1100
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Dietary Counseling": {
+      "titlePages": [
+        1100
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Other Counseling or Consultation": {
+      "titlePages": [
+        1100
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Wandering Associated With a Mental Disorder": {
+      "titlePages": [
+        1101
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Uncomplicated Bereavement": {
+      "titlePages": [
+        1101
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Phase of Life Problem": {
+      "titlePages": [
+        1101
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Religious or Spiritual Problem": {
+      "titlePages": [
+        1101
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Adult Antisocial Behavior": {
+      "titlePages": [
+        1101
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Child or Adolescent Antisocial Behavior": {
+      "titlePages": [
+        1102
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Nonadherence to Medical Treatment": {
+      "titlePages": [
+        1102
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Overweight or Obesity": {
+      "titlePages": [
+        1102
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Malingering": {
+      "titlePages": [
+        1102
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Age-Related Cognitive Decline": {
+      "titlePages": [
+        1102
+      ],
+      "sectionPages": {}
+    },
+    "Other Conditions That May Be a Focus of Clinical Attention::Other Problems: Borderline Intellectual Functioning": {
+      "titlePages": [
+        1103
+      ],
+      "sectionPages": {}
+    }
+  }
+}
