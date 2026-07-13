@@ -19,4 +19,3 @@ They remain in `scripts/manual-overrides.mjs` as source-level migration debt and
 
 ## Entries
 
-

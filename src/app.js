@@ -8,7 +8,7 @@ import {
 import { buildReport } from "./lib/report.js";
 import { slugify } from "./lib/utils.js";
 
-const THEME_STORAGE_KEY = "dsmdx-theme";
+const SMARTEMR_THEME_MESSAGE = "smartemr-theme";
 
 const elements = {
   categoriesSelect: document.getElementById("categories"),
@@ -21,8 +21,7 @@ const elements = {
   reportOutput: document.getElementById("report-output"),
   copyButton: document.getElementById("copy-button"),
   copyFeedback: document.getElementById("copy-feedback"),
-  rightPanelContent: document.getElementById("right-panel-content"),
-  themeToggle: document.getElementById("theme-toggle")
+  rightPanelContent: document.getElementById("right-panel-content")
 };
 
 const appState = {
@@ -31,13 +30,7 @@ const appState = {
   entryById: new Map()
 };
 
-function loadStoredTheme() {
-  try {
-    return localStorage.getItem(THEME_STORAGE_KEY);
-  } catch (error) {
-    return null;
-  }
-}
+let smartEmrTheme = null;
 
 function detectSystemTheme() {
   if (typeof window.matchMedia !== "function") {
@@ -47,12 +40,11 @@ function detectSystemTheme() {
   return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
 }
 
-function applyTheme(themePreference) {
-  const activeTheme = themePreference || detectSystemTheme();
+function applyTheme(themePreference = null) {
+  const activeTheme = ["light", "dark"].includes(themePreference)
+    ? themePreference
+    : detectSystemTheme();
   document.documentElement.dataset.theme = activeTheme;
-  elements.themeToggle.setAttribute("aria-pressed", String(activeTheme === "dark"));
-  elements.themeToggle.textContent =
-    activeTheme === "dark" ? "Switch to light mode" : "Switch to dark mode";
 }
 
 function initializeTheme() {
@@ -61,11 +53,11 @@ function initializeTheme() {
       ? window.matchMedia("(prefers-color-scheme: dark)")
       : null;
 
-  applyTheme(loadStoredTheme());
+  applyTheme();
 
   const handleThemeChange = () => {
-    if (!loadStoredTheme()) {
-      applyTheme(null);
+    if (!smartEmrTheme) {
+      applyTheme();
     }
   };
 
@@ -75,14 +67,24 @@ function initializeTheme() {
     mediaQuery.addListener(handleThemeChange);
   }
 
-  elements.themeToggle.addEventListener("click", () => {
-    const nextTheme = document.documentElement.dataset.theme === "dark" ? "light" : "dark";
-    try {
-      localStorage.setItem(THEME_STORAGE_KEY, nextTheme);
-    } catch (error) {
-      // Ignore storage failures and still update the local page theme.
+  window.addEventListener("message", (event) => {
+    const isParentMessage =
+      window.parent === window ? event.source === window : event.source === window.parent;
+    const expectedOrigin = window.location.origin;
+    const isExpectedOrigin = !event.origin || expectedOrigin === "null" || event.origin === expectedOrigin;
+    const theme = event.data?.theme;
+
+    if (
+      !isParentMessage ||
+      !isExpectedOrigin ||
+      event.data?.type !== SMARTEMR_THEME_MESSAGE ||
+      (theme !== "light" && theme !== "dark")
+    ) {
+      return;
     }
-    applyTheme(nextTheme);
+
+    smartEmrTheme = theme;
+    applyTheme(theme);
   });
 }
 
@@ -99,69 +101,7 @@ function entryKindLabel(kind) {
   return labels[kind] || "Entry";
 }
 
-function auditLabel(status) {
-  const labels = {
-    reviewed: "Reviewed",
-    unchecked: "Unchecked",
-    corrected: "Corrected",
-    "needs-manual-verification": "Needs verification"
-  };
-
-  return labels[status] || status;
-}
-
-function formatPages(source) {
-  const chapterPages = source.chapterPages?.every(Boolean)
-    ? `${source.chapterPages[0]}-${source.chapterPages[1]}`
-    : "N/A";
-  const titlePages = source.titlePages?.length ? source.titlePages.join(", ") : chapterPages;
-
-  return { chapterPages, titlePages };
-}
-
-function formatPageList(pages = []) {
-  if (!pages.length) {
-    return "";
-  }
-
-  const sortedPages = [...pages].sort((left, right) => left - right);
-  const ranges = [];
-  let rangeStart = sortedPages[0];
-  let rangeEnd = sortedPages[0];
-
-  sortedPages.slice(1).forEach((page) => {
-    if (page === rangeEnd + 1) {
-      rangeEnd = page;
-      return;
-    }
-
-    ranges.push(rangeStart === rangeEnd ? `${rangeStart}` : `${rangeStart}-${rangeEnd}`);
-    rangeStart = page;
-    rangeEnd = page;
-  });
-
-  ranges.push(rangeStart === rangeEnd ? `${rangeStart}` : `${rangeStart}-${rangeEnd}`);
-  return ranges.join(", ");
-}
-
-function makeSectionSourceKey(title) {
-  const parts = String(title || "")
-    .trim()
-    .replace(/['’]/g, "")
-    .replace(/[^a-zA-Z0-9]+/g, " ")
-    .trim()
-    .split(/\s+/)
-    .filter(Boolean)
-    .map((part) => part.toLowerCase());
-
-  if (!parts.length) {
-    return "section";
-  }
-
-  return parts[0] + parts.slice(1).map((part) => part[0].toUpperCase() + part.slice(1)).join("");
-}
-
-function createInfoSection(title, content, pages = []) {
+function createInfoSection(title, content) {
   const section = document.createElement("section");
   section.className = "mb-6 prose max-w-none";
 
@@ -172,13 +112,6 @@ function createInfoSection(title, content, pages = []) {
   heading.className = "text-xl font-bold text-gray-800 mb-2 border-b border-gray-200 pb-2";
   heading.textContent = title;
   headingRow.appendChild(heading);
-
-  if (pages.length > 0) {
-    const sourcePages = document.createElement("span");
-    sourcePages.className = "section-source-pages";
-    sourcePages.textContent = `DSM pp. ${formatPageList(pages)}`;
-    headingRow.appendChild(sourcePages);
-  }
 
   const body = document.createElement("div");
   body.className = "text-gray-700 section-body";
@@ -198,51 +131,7 @@ function renderEntryMetadata(entry) {
   kindPill.textContent = entryKindLabel(entry.kind);
   metaStrip.appendChild(kindPill);
 
-  const auditPill = document.createElement("span");
-  auditPill.className = "meta-pill";
-  auditPill.textContent = auditLabel(entry.audit.status);
-  metaStrip.appendChild(auditPill);
-
-  const pages = formatPages(entry.source);
-  const sourcePill = document.createElement("span");
-  sourcePill.className = "meta-pill";
-  sourcePill.textContent = `Title pages: ${pages.titlePages}`;
-  metaStrip.appendChild(sourcePill);
-
   return metaStrip;
-}
-
-function sourceStatusMessage(entry) {
-  const messages = {
-    reviewed:
-      "Reviewed against the local DSM-5-TR PDF. Narrative sections shown here are copied from cited DSM pages.",
-    corrected:
-      "Corrected against the local DSM-5-TR PDF. This entry received manual DSM-aligned fixes for wording, page mapping, or coding details.",
-    unchecked:
-      "This entry has not yet been chapter-audited. Verify subtle criteria, specifier, and coding details against the cited DSM pages before relying on it.",
-    "needs-manual-verification":
-      "This entry still needs manual verification against the local DSM-5-TR PDF before its criteria, specifier, and coding details should be treated as authoritative."
-  };
-
-  return messages[entry.audit.status] || messages.unchecked;
-}
-
-function createSourceStatusCallout(entry) {
-  const status = entry.audit.status || "unchecked";
-  const callout = document.createElement("section");
-  callout.className = `audit-status-callout audit-status-${status}`;
-
-  const heading = document.createElement("h3");
-  heading.className = "audit-status-heading";
-  heading.textContent = `Source Status: ${auditLabel(status)}`;
-  callout.appendChild(heading);
-
-  const body = document.createElement("p");
-  body.className = "audit-status-body";
-  body.textContent = sourceStatusMessage(entry);
-  callout.appendChild(body);
-
-  return callout;
 }
 
 function displayFullDiagnosisInfo(entry) {
@@ -262,63 +151,39 @@ function displayFullDiagnosisInfo(entry) {
   title.textContent = entry.name;
   elements.rightPanelContent.appendChild(title);
   elements.rightPanelContent.appendChild(renderEntryMetadata(entry));
-  elements.rightPanelContent.appendChild(createSourceStatusCallout(entry));
-
-  if (entry.audit.notes?.length) {
-    elements.rightPanelContent.appendChild(
-      createInfoSection("Audit Notes", entry.audit.notes.map((note) => `- ${note}`).join("\n"))
-    );
-  }
 
   if (entry.sections.length > 0) {
     entry.sections.forEach((section) => {
       if (section.content) {
-        elements.rightPanelContent.appendChild(
-          createInfoSection(
-            section.title,
-            section.content,
-            entry.source.sectionPages?.[makeSectionSourceKey(section.title)] || []
-          )
-        );
+        elements.rightPanelContent.appendChild(createInfoSection(section.title, section.content));
       }
     });
   } else if (entry.criteria.length > 0 && entry.criteria[0].text) {
     elements.rightPanelContent.appendChild(
-      createInfoSection("Description", entry.criteria[0].text, entry.source.sectionPages?.description || [])
+      createInfoSection("Description", entry.criteria[0].text)
     );
   } else {
     elements.rightPanelContent.appendChild(
       createInfoSection(
         "Description",
-        "This entry currently needs a fuller chapter summary audit against the DSM-5-TR source text.",
-        entry.source.sectionPages?.description || []
+        "No additional narrative description is available for this entry."
       )
     );
   }
 
   if (entry.differentialDiagnosis) {
     elements.rightPanelContent.appendChild(
-      createInfoSection(
-        "Differential Diagnosis",
-        entry.differentialDiagnosis,
-        entry.source.sectionPages?.differentialDiagnosis || []
-      )
+      createInfoSection("Differential Diagnosis", entry.differentialDiagnosis)
     );
   }
 
   if (entry.comorbidity) {
-    elements.rightPanelContent.appendChild(
-      createInfoSection("Comorbidity", entry.comorbidity, entry.source.sectionPages?.comorbidity || [])
-    );
+    elements.rightPanelContent.appendChild(createInfoSection("Comorbidity", entry.comorbidity));
   }
 
   if (entry.coding.notes?.length) {
     elements.rightPanelContent.appendChild(
-      createInfoSection(
-        "Coding Guidance",
-        entry.coding.notes.map((note) => `- ${note}`).join("\n"),
-        entry.source.sectionPages?.coding || []
-      )
+      createInfoSection("Coding Guidance", entry.coding.notes.map((note) => `- ${note}`).join("\n"))
     );
   }
 }
@@ -533,21 +398,20 @@ function clearSelectionGroup(container, groupId, selectionRole) {
 }
 
 function renderSpecifiers(entry) {
-  elements.specifiersContainer.innerHTML = '<h3 class="section-heading">Specifiers</h3>';
+  const specifiers = entry.specifiers || [];
+  elements.specifiersContainer.hidden = specifiers.length === 0;
+  elements.specifiersContainer.innerHTML = "";
 
-  if (!entry.specifiers.length) {
-    renderEmptyState(
-      elements.specifiersContainer,
-      "Specifiers",
-      "No specifiers are stored for this entry yet."
-    );
+  if (!specifiers.length) {
     return;
   }
+
+  elements.specifiersContainer.innerHTML = '<h3 class="section-heading">Specifiers</h3>';
 
   const computedGroups = getComputedSpecifierGroupKeys(entry);
   const codingGroupRequirements = getCodingGroupRequirements(entry);
 
-  entry.specifiers.forEach((specifier) => {
+  specifiers.forEach((specifier) => {
     const specifierKey = slugify(specifier.name);
     const codingRequirement = codingGroupRequirements.get(specifier.id) || null;
 
@@ -650,18 +514,16 @@ function renderSpecifiers(entry) {
 }
 
 function renderCodingInputs(entry) {
-  elements.codingInputsContainer.innerHTML = '<h3 class="section-heading">Coding Inputs</h3>';
-
   const inputGroups = entry.coding.inputs || [];
-  const codingGroupRequirements = getCodingGroupRequirements(entry);
+  elements.codingInputsContainer.hidden = inputGroups.length === 0;
+  elements.codingInputsContainer.innerHTML = "";
+
   if (!inputGroups.length) {
-    renderEmptyState(
-      elements.codingInputsContainer,
-      "Coding Inputs",
-      "No additional coding inputs are required for this entry."
-    );
     return;
   }
+
+  elements.codingInputsContainer.innerHTML = '<h3 class="section-heading">Coding Inputs</h3>';
+  const codingGroupRequirements = getCodingGroupRequirements(entry);
 
   inputGroups.forEach((group) => {
     const groupKey = slugify(group.name);
@@ -755,22 +617,23 @@ function renderCodingInputs(entry) {
 }
 
 function renderRecordingFields(entry) {
-  elements.recordingFieldsContainer.innerHTML = '<h3 class="section-heading">Recording Details</h3>';
+  const instructions = entry.recording?.instructions || [];
+  const fields = entry.recording?.fields || [];
+  const hasRecordingDetails = instructions.length > 0 || fields.length > 0;
+  elements.recordingFieldsContainer.hidden = !hasRecordingDetails;
+  elements.recordingFieldsContainer.innerHTML = "";
 
-  if (!entry.recording?.instructions?.length && !entry.recording?.fields?.length) {
-    renderEmptyState(
-      elements.recordingFieldsContainer,
-      "Recording Details",
-      "No extra recording details are needed for this entry."
-    );
+  if (!hasRecordingDetails) {
     return;
   }
 
-  if (entry.recording.instructions.length > 0) {
+  elements.recordingFieldsContainer.innerHTML = '<h3 class="section-heading">Recording Details</h3>';
+
+  if (instructions.length > 0) {
     const guidanceList = document.createElement("ul");
     guidanceList.className = "guidance-list text-sm";
 
-    entry.recording.instructions.forEach((instruction) => {
+    instructions.forEach((instruction) => {
       const item = document.createElement("li");
       item.textContent = instruction;
       guidanceList.appendChild(item);
@@ -779,7 +642,7 @@ function renderRecordingFields(entry) {
     elements.recordingFieldsContainer.appendChild(guidanceList);
   }
 
-  if (!entry.recording.fields.length) {
+  if (!fields.length) {
     const note = document.createElement("p");
     note.className = "text-sm text-gray-500 mt-2";
     note.textContent = "This entry has recording guidance notes but no additional report fields.";
@@ -787,7 +650,7 @@ function renderRecordingFields(entry) {
     return;
   }
 
-  entry.recording.fields.forEach((field) => {
+  fields.forEach((field) => {
     const wrapper = document.createElement("div");
     wrapper.className = "field-group recording-field-group";
 
@@ -935,13 +798,9 @@ function updateAllPanels() {
 
   if (!entry) {
     renderEmptyState(elements.criteriaContainer, "Diagnostic Criteria", "Select an entry to see details.");
-    renderEmptyState(elements.specifiersContainer, "Specifiers", "Select an entry to see details.");
-    renderEmptyState(elements.codingInputsContainer, "Coding Inputs", "Select an entry to see details.");
-    renderEmptyState(
-      elements.recordingFieldsContainer,
-      "Recording Details",
-      "Select an entry to see details."
-    );
+    elements.specifiersContainer.hidden = true;
+    elements.codingInputsContainer.hidden = true;
+    elements.recordingFieldsContainer.hidden = true;
     setCodeDisplay("N/A");
     elements.reportOutput.value = "";
     return;

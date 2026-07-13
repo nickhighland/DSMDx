@@ -157,59 +157,6 @@ textarea {
   font-weight: 600;
 }
 
-.audit-status-callout {
-  margin-bottom: 1.25rem;
-  padding: 1rem 1.1rem;
-  border: 1px solid var(--border);
-  border-radius: var(--radius-md);
-  background: var(--surface-strong);
-  box-shadow: var(--shadow-small);
-}
-
-.audit-status-heading {
-  margin: 0 0 0.35rem;
-  color: var(--text-strong);
-  font-size: 0.95rem;
-}
-
-.audit-status-body {
-  margin: 0;
-  color: var(--text);
-}
-
-.audit-status-reviewed {
-  border-color: rgba(21, 128, 61, 0.2);
-  background: rgba(21, 128, 61, 0.08);
-}
-
-.audit-status-corrected {
-  border-color: rgba(15, 118, 110, 0.22);
-  background: rgba(15, 118, 110, 0.08);
-}
-
-.audit-status-unchecked,
-.audit-status-needs-manual-verification {
-  border-color: rgba(180, 83, 9, 0.24);
-  background: rgba(180, 83, 9, 0.08);
-}
-
-[data-theme="dark"] .audit-status-reviewed {
-  border-color: rgba(134, 239, 172, 0.24);
-  background: rgba(22, 101, 52, 0.26);
-}
-
-[data-theme="dark"] .audit-status-corrected {
-  border-color: rgba(94, 234, 212, 0.24);
-  background: rgba(15, 118, 110, 0.22);
-}
-
-[data-theme="dark"] .audit-status-unchecked,
-[data-theme="dark"] .audit-status-needs-manual-verification {
-  border-color: rgba(253, 230, 138, 0.26);
-  background: rgba(146, 64, 14, 0.25);
-}
-
-.theme-toggle,
 .primary-button {
   border: none;
   border-radius: 999px;
@@ -221,16 +168,10 @@ textarea {
   transition: transform 160ms ease, filter 160ms ease, box-shadow 160ms ease;
 }
 
-.theme-toggle:hover,
 .primary-button:hover {
   transform: translateY(-1px);
   filter: brightness(1.06);
   box-shadow: 0 14px 28px rgba(44, 62, 80, 0.2);
-}
-
-.theme-toggle[aria-pressed="true"] {
-  background: linear-gradient(135deg, #f39c12 0%, #e67e22 100%);
-  color: #ffffff;
 }
 
 .field-group,
@@ -281,18 +222,6 @@ button:focus-visible {
   justify-content: space-between;
   gap: 0.75rem;
   flex-wrap: wrap;
-}
-
-.section-source-pages {
-  display: inline-flex;
-  align-items: center;
-  border: 1px solid var(--border-soft);
-  border-radius: 999px;
-  padding: 0.2rem 0.65rem;
-  background: var(--surface-muted);
-  color: var(--text-muted);
-  font-size: 0.78rem;
-  font-weight: 600;
 }
 
 .code-display {

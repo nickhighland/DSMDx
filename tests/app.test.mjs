@@ -441,24 +441,29 @@ test("specifier-linked catatonia subcriteria render for Autism Spectrum Disorder
   }
 });
 
-test("theme initialization follows system preference and the toggle persists the next theme", async () => {
+test("theme follows system preference and accepts the SmartEMR menu theme", async () => {
   const app = await setupApp({ prefersDark: true });
 
   try {
     const root = app.document.documentElement;
     assert.equal(root.dataset.theme, "dark");
 
-    const toggle = app.document.getElementById("theme-toggle");
-    toggle.click();
+    app.window.dispatchEvent(
+      new app.window.MessageEvent("message", {
+        data: { type: "smartemr-theme", theme: "light" },
+        origin: app.window.location.origin,
+        source: app.window
+      })
+    );
 
     assert.equal(root.dataset.theme, "light");
-    assert.equal(app.window.localStorage.getItem("dsmdx-theme"), "light");
+    assert.equal(app.document.getElementById("theme-toggle"), null);
   } finally {
     app.cleanup();
   }
 });
 
-test("right panel shows the corrected source status for audited entries", async () => {
+test("right panel hides PDF-derived source metadata", async () => {
   const app = await setupApp();
 
   try {
@@ -474,8 +479,11 @@ test("right panel shows the corrected source status for audited entries", async 
     );
 
     const rightPanelText = app.document.getElementById("right-panel-content").textContent;
-    assert.match(rightPanelText, /Source Status: Corrected/);
-    assert.doesNotMatch(rightPanelText, /has not yet been chapter-audited/i);
+    assert.doesNotMatch(rightPanelText, /Source Status:/);
+    assert.doesNotMatch(rightPanelText, /Title pages:/);
+    assert.doesNotMatch(rightPanelText, /DSM pp\./);
+    assert.doesNotMatch(rightPanelText, /Audit Notes/);
+    assert.doesNotMatch(rightPanelText, /local DSM-5-TR PDF/i);
   } finally {
     app.cleanup();
   }
@@ -528,7 +536,40 @@ test("Specific Learning Disorder resolves multiple selected academic-domain code
   }
 });
 
-test("right panel shows positive source-status callouts for reviewed and corrected entries", async () => {
+test("optional DSM panels only appear when the selected entry uses them", async () => {
+  const app = await setupApp();
+
+  try {
+    setSelectValue(
+      app.document.getElementById("categories"),
+      "neurodevelopmental-disorders",
+      app.window
+    );
+    setSelectValue(
+      app.document.getElementById("diagnoses"),
+      "neurodevelopmental-disorders-global-developmental-delay",
+      app.window
+    );
+
+    assert.equal(app.document.getElementById("specifiers-container").hidden, true);
+    assert.equal(app.document.getElementById("coding-inputs-container").hidden, true);
+    assert.equal(app.document.getElementById("recording-fields-container").hidden, true);
+
+    setSelectValue(
+      app.document.getElementById("diagnoses"),
+      "neurodevelopmental-disorders-specific-learning-disorder",
+      app.window
+    );
+
+    assert.equal(app.document.getElementById("specifiers-container").hidden, false);
+    assert.equal(app.document.getElementById("coding-inputs-container").hidden, false);
+    assert.equal(app.document.getElementById("recording-fields-container").hidden, false);
+  } finally {
+    app.cleanup();
+  }
+});
+
+test("right panel retains narrative content without audit callouts", async () => {
   const app = await setupApp();
 
   try {
@@ -544,8 +585,8 @@ test("right panel shows positive source-status callouts for reviewed and correct
     );
 
     let rightPanelText = app.document.getElementById("right-panel-content").textContent;
-    assert.match(rightPanelText, /Source Status: Reviewed/);
-    assert.match(rightPanelText, /copied from cited DSM pages/i);
+    assert.match(rightPanelText, /Autism Spectrum Disorder/);
+    assert.doesNotMatch(rightPanelText, /Source Status:/);
 
     setSelectValue(
       app.document.getElementById("categories"),
@@ -559,14 +600,14 @@ test("right panel shows positive source-status callouts for reviewed and correct
     );
 
     rightPanelText = app.document.getElementById("right-panel-content").textContent;
-    assert.match(rightPanelText, /Source Status: Corrected/);
-    assert.match(rightPanelText, /manual DSM-aligned fixes/i);
+    assert.match(rightPanelText, /Conduct Disorder/);
+    assert.doesNotMatch(rightPanelText, /Source Status:/);
   } finally {
     app.cleanup();
   }
 });
 
-test("right panel displays audited DSM page references for chapter sections", async () => {
+test("right panel omits title and section page references", async () => {
   const app = await setupApp();
 
   try {
@@ -578,9 +619,9 @@ test("right panel displays audited DSM page references for chapter sections", as
     );
 
     const rightPanelText = app.document.getElementById("right-panel-content").textContent;
-    assert.match(rightPanelText, /Title pages: 320/);
-    assert.match(rightPanelText, /DSM pp\. 322/);
-    assert.match(rightPanelText, /DSM pp\. 324-325/);
+    assert.match(rightPanelText, /Persistent Depressive Disorder/);
+    assert.doesNotMatch(rightPanelText, /Title pages:/);
+    assert.doesNotMatch(rightPanelText, /DSM pp\./);
   } finally {
     app.cleanup();
   }
@@ -604,7 +645,6 @@ test("Conduct Disorder now includes sourced narrative sections in the right pane
     const rightPanelText = app.document.getElementById("right-panel-content").textContent;
     assert.match(rightPanelText, /Diagnostic Features/);
     assert.match(rightPanelText, /repetitive and persistent pattern of behavior/i);
-    assert.match(rightPanelText, /DSM pp\. 742/);
   } finally {
     app.cleanup();
   }
@@ -628,7 +668,6 @@ test("Intermittent Explosive Disorder now includes sourced narrative sections in
     const rightPanelText = app.document.getElementById("right-panel-content").textContent;
     assert.match(rightPanelText, /Diagnostic Features/);
     assert.match(rightPanelText, /The impulsive \(or anger-based\) aggressive outbursts/i);
-    assert.match(rightPanelText, /DSM pp\. 735/);
   } finally {
     app.cleanup();
   }
@@ -674,7 +713,6 @@ test("Tourette's Disorder now shows expanded reviewed section coverage", async (
 
     const rightPanelText = app.document.getElementById("right-panel-content").textContent;
     assert.match(rightPanelText, /Functional Consequences of Tic Disorders/);
-    assert.match(rightPanelText, /DSM pp\. 203/);
   } finally {
     app.cleanup();
   }
@@ -694,7 +732,6 @@ test("Bipolar II Disorder now shows sourced narrative sections in the right pane
     const rightPanelText = app.document.getElementById("right-panel-content").textContent;
     assert.match(rightPanelText, /Diagnostic Features/);
     assert.match(rightPanelText, /clinical course of recurring mood episodes/i);
-    assert.match(rightPanelText, /DSM pp\. 272-273/);
   } finally {
     app.cleanup();
   }
@@ -713,7 +750,6 @@ test("Breathing-Related Sleep Disorders shows a sourced overview and remains not
 
     const rightPanelText = app.document.getElementById("right-panel-content").textContent;
     assert.match(rightPanelText, /The breathing-related sleep disorders category encompasses/i);
-    assert.match(rightPanelText, /DSM pp\. 613/);
     assert.equal(
       app.document.querySelector("#icd-code-container span")?.textContent?.trim(),
       "Not directly coded"

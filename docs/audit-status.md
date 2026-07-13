@@ -785,4 +785,3 @@ Entries currently using explicit recording inputs:
 - Abuse and Neglect: Spouse or Partner Abuse, Psychological
 - Abuse and Neglect: Adult Abuse by Nonspouse or Nonpartner
 - Relational Problems: Parent-Child Relational Problem
-
